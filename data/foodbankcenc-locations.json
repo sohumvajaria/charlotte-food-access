@@ -1,0 +1,4394 @@
+[
+  {
+    "name": "First United Methodist Church",
+    "lat": 34.57057761,
+    "lng": -77.40023694,
+    "address": "305 Lake Side Dr Sneads Ferry, NC 28460",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Feed Craven",
+    "lat": 35.04979516,
+    "lng": -77.01423559,
+    "address": "3317 US Hwy 70 E New Bern, NC 28560",
+    "phone": "(252) 349-0787",
+    "category": "food_bank"
+  },
+  {
+    "name": "Faith Tabernacle Ministry",
+    "lat": 35.64334701,
+    "lng": -78.48833596,
+    "address": "591 Guy Rd Clayton, NC 27520",
+    "phone": "(919) 928-1363",
+    "category": "food_bank"
+  },
+  {
+    "name": "Faith Missionary Baptist",
+    "lat": 35.74546512,
+    "lng": -78.65852531,
+    "address": "908 Suffolk Blvd Raleigh, NC 27603",
+    "phone": "(919) 601-7603",
+    "category": "food_bank"
+  },
+  {
+    "name": "Faith Assembly Church - Meals",
+    "lat": 34.90395821,
+    "lng": -79.69347561,
+    "address": "148 Daniels St Hamlet, NC 28345",
+    "phone": "(910) 997-4391",
+    "category": "food_bank"
+  },
+  {
+    "name": "Emmanuel Hispanic Pentecostal",
+    "lat": 35.74351356,
+    "lng": -78.57766995,
+    "address": "4119 Rock Quarry Rd Raleigh, NC 27610",
+    "phone": "(919) 523-4167",
+    "category": "food_bank"
+  },
+  {
+    "name": "Concord Baptist Church",
+    "lat": 36.1681787,
+    "lng": -78.38093134,
+    "address": "810 Walter Grissom Rd Kittrell, NC 27544",
+    "phone": "(919) 452-5386",
+    "category": "food_bank"
+  },
+  {
+    "name": "Eagle Springs Baptist Church",
+    "lat": 35.29136,
+    "lng": -79.64906602,
+    "address": "460 Eagle Springs Rd Eagle Springs, NC 27242",
+    "phone": "(910) 673-2839",
+    "category": "food_bank"
+  },
+  {
+    "name": "Duplin Christian Outreach",
+    "lat": 34.82455384,
+    "lng": -78.02321561,
+    "address": "314 E Church St Rose Hill, NC 28548",
+    "phone": "(910) 289-2449",
+    "category": "food_bank"
+  },
+  {
+    "name": "Cornerstone Missionary Baptist Church",
+    "lat": 35.60759,
+    "lng": -77.4204,
+    "address": "1095 Allen Rd Greenville, NC 27834",
+    "phone": "(252) 752-4156",
+    "category": "food_bank"
+  },
+  {
+    "name": "CORA Food Pantry in Siler City",
+    "lat": 35.75025592,
+    "lng": -79.47909553,
+    "address": "2535 Old US Hwy 421 N Siler City, NC 27344",
+    "phone": "(919) 742-3111",
+    "category": "food_bank"
+  },
+  {
+    "name": "CORA Food Pantry in Pittsboro",
+    "lat": 35.72407836,
+    "lng": -79.18632395,
+    "address": "40 Camp Dr Pittsboro, NC 27312",
+    "phone": "(919) 542-5020",
+    "category": "food_bank"
+  },
+  {
+    "name": "Cook's Chapel Church",
+    "lat": 36.30694,
+    "lng": -78.40793323,
+    "address": "200 Center St Henderson, NC 27536",
+    "phone": "(919) 939-5549",
+    "category": "food_bank"
+  },
+  {
+    "name": "Glad Tidings Gospel Church",
+    "lat": 35.66694,
+    "lng": -77.96189846,
+    "address": "4422 US Hwy 301 S Wilson, NC 27893",
+    "phone": "(252) 674-9778",
+    "category": "food_bank"
+  },
+  {
+    "name": "Gibraltar the Remnant Church",
+    "lat": 35.89763409,
+    "lng": -77.54634189,
+    "address": "809 W Country Club Dr Tarboro, NC 27886",
+    "phone": "(252) 563-5471",
+    "category": "food_bank"
+  },
+  {
+    "name": "Garland Christian Ministries",
+    "lat": 34.78331362,
+    "lng": -78.39969055,
+    "address": "131 Rich Rd Garland, NC 28441",
+    "phone": "(910) 580-7763",
+    "category": "food_bank"
+  },
+  {
+    "name": "Gang Free INC",
+    "lat": 36.31711733,
+    "lng": -78.39620091,
+    "address": "608 Harriett St Henderson, NC 27536",
+    "phone": "(252) 598-0067",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Cosmopolitan MBC",
+    "lat": 35.75305963,
+    "lng": -78.61657933,
+    "address": "1515 Cross Link Rd Raleigh, NC 27610",
+    "phone": "(919) 691-7528",
+    "category": "food_bank"
+  },
+  {
+    "name": "Fidelity Baptist Church",
+    "lat": 36.4393539,
+    "lng": -77.9011502,
+    "address": "627 Summit Rd Littleton, NC 27850",
+    "phone": "(252) 676-9156",
+    "category": "food_bank"
+  },
+  {
+    "name": "Faith Developmental Community",
+    "lat": 35.25957931,
+    "lng": -77.64735456,
+    "address": "655 Sussex St Kinston, NC 28501",
+    "phone": "(252) 686-2859",
+    "category": "food_bank"
+  },
+  {
+    "name": "Facts of Life Church",
+    "lat": 34.11222987,
+    "lng": -78.80699606,
+    "address": "24678 Peacock Rd Tabor City, NC 28463",
+    "phone": "(910) 794-9656",
+    "category": "food_bank"
+  },
+  {
+    "name": "Emanuel Tabernacle Holiness",
+    "lat": 35.96940011,
+    "lng": -78.90342642,
+    "address": "2525 Atlantic St Durham, NC 27707",
+    "phone": "(919) 641-1646",
+    "category": "food_bank"
+  },
+  {
+    "name": "Duplin Christian Outreach, Faith by Grace",
+    "lat": 34.81833003,
+    "lng": -77.94455884,
+    "address": "2635 S NC Hwy 11 Rose Hill, NC 28466",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Duplin Christian Outreach Ministries- Snow Hill",
+    "lat": 35.08216246,
+    "lng": -77.88444649,
+    "address": "1224 Red Hill Rd Mt. Olive, NC 28366",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Cotton Memorial",
+    "lat": 36.33229704,
+    "lng": -78.39987101,
+    "address": "511 N Chestnut St Henderson, NC 27536",
+    "phone": "(252) 492-3478",
+    "category": "food_bank"
+  },
+  {
+    "name": "Franklin County Interfaith Council- Allen Chapel",
+    "lat": 36.14005813,
+    "lng": -78.26039061,
+    "address": "693 T K Allen Rd Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Gift of Love Food Pantry",
+    "lat": 34.80807435,
+    "lng": -79.5474481,
+    "address": "9460 Andrew Jackson Hwy Laurel Hill, NC 28351",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "God's City of Refuge Inc",
+    "lat": 34.74926365,
+    "lng": -76.87729679,
+    "address": "953 Hibbs Rd Newport, NC 28570",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Good News Buenas Nuevas",
+    "lat": 35.50834856,
+    "lng": -78.24130846,
+    "address": "2176-D US 70 A Hwy Pine Level, NC 27568",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Jude's Metropolitan",
+    "lat": 34.23958,
+    "lng": -77.91387997,
+    "address": "19 N 26th St Wilmington, NC 28405",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Grace and Peace Tabernacle",
+    "lat": 36.09328803,
+    "lng": -79.25954222,
+    "address": "600 E Washington St Mebane, NC 27302",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Matthew Missionary Baptist Church",
+    "lat": 36.48270396,
+    "lng": -78.73839227,
+    "address": "8604 Hwy 96 Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Mark's - La Guadalupana",
+    "lat": 35.71767899,
+    "lng": -77.90171397,
+    "address": "106 Reid St SE Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Mary Missionary Baptist",
+    "lat": 34.14443578,
+    "lng": -78.09463277,
+    "address": "6401 Ocean Hwy E Winnabow, NC 28479",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Luke United Methodist",
+    "lat": 34.74934,
+    "lng": -79.4969728,
+    "address": "1501 Turnpike Rd Laurinburg, NC 28352",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Paul Church of Christ",
+    "lat": 35.77551874,
+    "lng": -77.93639219,
+    "address": "4009 Lake Wilson Rd Wilson, NC 27896",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Jones Grove Missionary Baptist Church",
+    "lat": 36.12894281,
+    "lng": -79.11995764,
+    "address": "2713 Coleman Loop Rd Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Inter-Faith Council Community Kitchen",
+    "lat": 35.91034,
+    "lng": -79.0736,
+    "address": "110 West Main St Carrboro, NC 27510",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia Vision 3D",
+    "lat": 34.23329066,
+    "lng": -77.90557409,
+    "address": "359 Mercer Ave Wilmington, NC 28403",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia Pentecostal Jesucristo",
+    "lat": 35.5431033,
+    "lng": -78.17995921,
+    "address": "1508 Bizzell Grove Church Rd Selma, NC 27576",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia La Luz Del Evengelio",
+    "lat": 35.48463018,
+    "lng": -79.15995724,
+    "address": "646 Oakwood Ave Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hobgood Citizens Group",
+    "lat": 36.03237591,
+    "lng": -77.39275374,
+    "address": "401 Beech St Hobgood, NC 27843",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hillside Church Food Pantry",
+    "lat": 35.89095338,
+    "lng": -79.06267503,
+    "address": "201 Culbreth Rd Chapel Hill, NC 27516",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hillsborough SDA Church",
+    "lat": 36.1139835,
+    "lng": -79.11296184,
+    "address": "1808 NC Hwy 86 N Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hillsborough Church Of God",
+    "lat": 36.047828,
+    "lng": -79.07952,
+    "address": "2412 HWY 86 S Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "High Falls United Methodist",
+    "lat": 35.48029008,
+    "lng": -79.51692758,
+    "address": "324 Frieson Rd Highfalls, NC 27259",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Heavenly Manna",
+    "lat": 36.09440898,
+    "lng": -79.19233777,
+    "address": "117 Richmond Rd Efland, NC 27243",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Harvest Word Ministry",
+    "lat": 35.77885384,
+    "lng": -78.29313703,
+    "address": "15199 NC 96 Zebulon, NC 27597",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater St Peter",
+    "lat": 35.22035645,
+    "lng": -77.58845459,
+    "address": "886 Will Baker Rd Kinston, NC 28504",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Ransom Way of the",
+    "lat": 36.24825584,
+    "lng": -78.4319171,
+    "address": "90 South Lake Lodge Ext Henderson, NC 27537",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Judah Corporation",
+    "lat": 35.54651,
+    "lng": -77.39651294,
+    "address": "2047 S Park Dr Ste C Winterville, NC 28590",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Joy Missionary Baptist",
+    "lat": 35.96690813,
+    "lng": -77.74026284,
+    "address": "2355 Leggett Rd Rocky Mount, NC 27803",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Grace Outreach Enrichment",
+    "lat": 35.99093955,
+    "lng": -78.87011061,
+    "address": "612 Gary St Durham, NC 27703",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kitrell Shiloh Missionary",
+    "lat": 36.20236912,
+    "lng": -78.43422474,
+    "address": "1390 S Chavis Rd Kitrell, NC 27544",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kingdom Care Inc",
+    "lat": 35.685906,
+    "lng": -77.359536,
+    "address": "1701 Staton Mill Rd Greenville, NC 27836",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Joseph Provisions",
+    "lat": 35.599164,
+    "lng": -77.383456,
+    "address": "703 Howell St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "JEWELS Outreach and Networking",
+    "lat": 35.96424,
+    "lng": -78.8878,
+    "address": "1701 Sherman Avenue Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Immanuel Temple SDA Community",
+    "lat": 35.96078,
+    "lng": -78.8885,
+    "address": "2102 S Alston Ave Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia Pentecostal Puerta Al Cielo",
+    "lat": 35.75510498,
+    "lng": -78.66279396,
+    "address": "1411-1 Diggs Dr Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hurdle Mills",
+    "lat": 36.22806925,
+    "lng": -79.07913877,
+    "address": "1701 Jimmy Ed Rd Hurdle Mills, NC 27541",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Holly Springs Food Cupboard",
+    "lat": 35.65542722,
+    "lng": -78.84276122,
+    "address": "621 W Holly Springs Rd Holly Springs, NC 27540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hills Chapel Missionary",
+    "lat": 34.6558,
+    "lng": -77.9826,
+    "address": "2521 Little Kelly Rd Rocky Point, NC 28457",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Helping Hands St Stanislaus Catholic Church",
+    "lat": 34.341347,
+    "lng": -77.90622,
+    "address": "4849 Castle Hayne Rd Castle Hayne, NC 28429",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hearts For Children Intl",
+    "lat": 36.01842787,
+    "lng": -78.65541445,
+    "address": "14705 New Light Rd Wake Forest, NC 27587",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greene County Interfaith",
+    "lat": 35.45266529,
+    "lng": -77.68949348,
+    "address": "412 Kingold Blvd Snow Hill, NC 28580",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Refuge Temple",
+    "lat": 36.03236681,
+    "lng": -78.86587826,
+    "address": "1438 Maplewood Dr Durham, NC 27704",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Joy Missionary Baptist North",
+    "lat": 36.43875,
+    "lng": -77.64416382,
+    "address": "1711 E 10th St Roanoke Rapids, NC 27870",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Juniper Level",
+    "lat": 35.63120478,
+    "lng": -78.64194373,
+    "address": "9104 Sauls Rd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Joy Missionary Baptist",
+    "lat": 35.9293,
+    "lng": -77.81622903,
+    "address": "820 Nashville Rd Rocky Mount, NC 27803",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kingdom Christ Church",
+    "lat": 35.38941294,
+    "lng": -78.83517149,
+    "address": "25 Bailey Way Rd Lillington, NC 27546",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saints Delight Church of God in Christ",
+    "lat": 35.803213,
+    "lng": -77.394142,
+    "address": "593 US-64-Alternate W Bethel, NC 27812",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Peter's Development Center",
+    "lat": 35.6285046,
+    "lng": -77.3544843,
+    "address": "1295 E Mumford Rd Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Ship Outreach at Cavalry Faith Center",
+    "lat": 35.81569411,
+    "lng": -78.42857484,
+    "address": "4825 Rolesville Rd Wendell, NC 27591",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Ship Outreach & Comm Cntr",
+    "lat": 35.74741612,
+    "lng": -78.64911194,
+    "address": "2635 S Saunders St Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Memorial Baptist Church",
+    "lat": 35.58855074,
+    "lng": -77.34886668,
+    "address": "1510 Greenville Blvd SE Greenville, NC 27858",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lake Waccamaw Food Ministry",
+    "lat": 34.32216496,
+    "lng": -78.543509,
+    "address": "300 Sam Potts Hwy Lake Waccamaw, NC 28450",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mount Calvary AME Church",
+    "lat": 34.25644621,
+    "lng": -78.00511296,
+    "address": "325 Main St Navassa, NC 28451",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mom and Pops Giving Closet",
+    "lat": 36.03279877,
+    "lng": -78.95294569,
+    "address": "1417 Cole Mill Rd Durham, NC 27705",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mission in Action",
+    "lat": 35.96615,
+    "lng": -77.96977251,
+    "address": "904 S Alston St Nashville, NC 27856",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Maysville Methodist Church",
+    "lat": 34.90107785,
+    "lng": -77.22758172,
+    "address": "804 Foy Ave Maysville, NC 28555",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Love of Christ Ministries",
+    "lat": 34.07605177,
+    "lng": -78.14114001,
+    "address": "4308 Bus 17 NE Bolivia, NC 28422",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Living Word Church",
+    "lat": 34.322628,
+    "lng": -78.825748,
+    "address": "98 Old Chadbourn Hwy Chadbourn, NC 28431",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Living Stones",
+    "lat": 36.34430018,
+    "lng": -78.54116592,
+    "address": "6096 Tabbs Creek Rd Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Living Bread Holiness Church",
+    "lat": 35.12609884,
+    "lng": -77.0856067,
+    "address": "1116 Glenburnie Rd New Bern, NC 28561",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lighthouse Community Church",
+    "lat": 34.87379548,
+    "lng": -76.38779829,
+    "address": "2015 US Hwy 70 E Stacy, NC 28581",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Light House Community Center",
+    "lat": 35.94353314,
+    "lng": -78.10549203,
+    "address": "504 Second St Spring Hope, NC 27882",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Life Point Church Storehouse",
+    "lat": 36.08665418,
+    "lng": -79.0913134,
+    "address": "121 Orange High School Rd Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lakes Chapel Missionary Baptist Church",
+    "lat": 34.57169429,
+    "lng": -78.11105229,
+    "address": "10420 Point Caswell Rd Willard, NC 28478",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Life Outreach Ministry",
+    "lat": 36.09822,
+    "lng": -78.45716383,
+    "address": "128 Savage St Franklinton, NC 27525",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Life Fellowship Church",
+    "lat": 35.35794501,
+    "lng": -79.12797115,
+    "address": "4714 Olivia Rd Sanford, NC 27332",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Bethel Christian Church",
+    "lat": 35.76457059,
+    "lng": -78.56708347,
+    "address": "4307 Old Poole Rd Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "NC Seeds of Love",
+    "lat": 35.721268,
+    "lng": -77.915543,
+    "address": "1004 S Railroad St Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "NC Love In Action LIA-",
+    "lat": 35.711993,
+    "lng": -77.910858,
+    "address": "1004 S Railroad St Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mt Olive AME Church - Helping Hand Food Pantry",
+    "lat": 34.223267,
+    "lng": -77.939059,
+    "address": "1001 S 7th St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mount Zion UCC/Rockingham",
+    "lat": 35.0027086,
+    "lng": -79.68837363,
+    "address": "986 Ledbetter Rd Rockingham, NC 28379",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Southport Oak Island InterChurch",
+    "lat": 34.02686,
+    "lng": -78.07000356,
+    "address": "249 W Boiling Spring Rd Boiling Spring Lakes, NC 28461",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Southern Mission Ministries",
+    "lat": 35.03004626,
+    "lng": -79.53498354,
+    "address": "267 Blues Bridge Rd Hoffman, NC 28347",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "South Raleigh Inwood Care Pantry",
+    "lat": 35.73048,
+    "lng": -78.6833,
+    "address": "3700 Lake Wheeler Rd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Smithfield Area Ministries Food Closet",
+    "lat": 35.51189238,
+    "lng": -78.34778051,
+    "address": "140 E Market St Smithfield, NC 27577",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Shiloh Christian Food Pantry",
+    "lat": 35.50557872,
+    "lng": -78.33601792,
+    "address": "211 Durham St Smithfield, NC 27577-1766",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Share the Table Inc",
+    "lat": 34.46942773,
+    "lng": -77.58211736,
+    "address": "21 Perkins Rd Hampstead, NC 28443",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Save the Family Church",
+    "lat": 35.30562018,
+    "lng": -77.77377159,
+    "address": "5740 Aldridge Store Rd LaGrange, NC 27534",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Sandhills Moore Coalition",
+    "lat": 35.18629834,
+    "lng": -79.40990057,
+    "address": "1500 W Indiana Ave Southern Pines, NC 28387",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army-Raleigh",
+    "lat": 35.80714629,
+    "lng": -78.61705534,
+    "address": "1863 Capital Blvd Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army-Raleigh",
+    "lat": 35.80714629,
+    "lng": -78.61705534,
+    "address": "1863 Capital Blvd Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - New Bern",
+    "lat": 35.10647191,
+    "lng": -77.05756454,
+    "address": "1402 Rhem Ave New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Lee County",
+    "lat": 35.46514,
+    "lng": -79.15892568,
+    "address": "1740 S Horner Blvd Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Healing Place of New Hanover County, Inc.",
+    "lat": 34.19762,
+    "lng": -77.9319,
+    "address": "1000 Medical Center Drive Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Paul's Episcopal Church",
+    "lat": 35.61166983,
+    "lng": -77.36945188,
+    "address": "401 E Fourth St Greenville, NC 27858",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Mark Church of Christ",
+    "lat": 35.38777151,
+    "lng": -78.00646303,
+    "address": "700 W Ash St Goldsboro, NC 27530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mount Calvary Grace and Mercy Street Ministry",
+    "lat": 35.6061607,
+    "lng": -77.39041813,
+    "address": "411 Watauga Ave Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Luke AME Zion Church",
+    "lat": 34.2299273,
+    "lng": -77.93949322,
+    "address": "709 Church St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Miracle on Meares Agency",
+    "lat": 34.22270264,
+    "lng": -77.93423424,
+    "address": "1019 Meares St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Joseph AME Church",
+    "lat": 35.968468,
+    "lng": -78.90227902,
+    "address": "2521 Fayetteville St Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Temple Emmanuel Gospel Truth",
+    "lat": 36.4221145,
+    "lng": -77.59909374,
+    "address": "9 E 8th St Weldon, NC 27890",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint James Methodist Church",
+    "lat": 34.785299,
+    "lng": -76.856579,
+    "address": "1007 Orange St Newport, NC 28570",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Anthony's Catholic Church",
+    "lat": 35.17486,
+    "lng": -79.3878,
+    "address": "320 N Ashe Street Southern Pines, NC 28387",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Ann Catholic Church",
+    "lat": 35.5664441,
+    "lng": -78.39332131,
+    "address": "4057 US 70 BUS Clayton, NC 27520",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Sure Promise Christian Church",
+    "lat": 35.72379241,
+    "lng": -78.56013199,
+    "address": "4301 Pearl Rd Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Russell Memorial CME Church",
+    "lat": 35.97990754,
+    "lng": -78.89109982,
+    "address": "703 S Alston Ave Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Stephens Church - Clinton",
+    "lat": 35.00133493,
+    "lng": -78.33309943,
+    "address": "207 W Lee St Clinton, NC 28328",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Springfield Baptist Church",
+    "lat": 35.697484,
+    "lng": -78.543158,
+    "address": "4309 Auburn Knightdale Rd Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Sonrise Independent Baptist",
+    "lat": 33.95488,
+    "lng": -78.0295488,
+    "address": "8375 River Rd Southport, NC 28461",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Senior Home Care Services Inc",
+    "lat": 35.58466028,
+    "lng": -77.38661978,
+    "address": "1001 Hooker Rd Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Sandy Creek Baptist Church",
+    "lat": 36.16400351,
+    "lng": -78.16222478,
+    "address": "4160 NC 561 Hwy Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Samaritan's Shelf",
+    "lat": 35.63352342,
+    "lng": -78.49212266,
+    "address": "143 Short Johnson Rd Clayton, NC 27520",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Richlands Community Outreach",
+    "lat": 34.90142516,
+    "lng": -77.55326375,
+    "address": "8701 Richlands Hwy Richlands, NC 28574",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Paul Missionary Baptist Church",
+    "lat": 35.98341712,
+    "lng": -77.8386869,
+    "address": "1151 Winstead Ave Rocky Mount, NC 27804",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Jacksonville",
+    "lat": 34.75582936,
+    "lng": -77.38632709,
+    "address": "461 Center St Jacksonville, NC 28546",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Restoration Church and Outreach Ministries",
+    "lat": 35.54317,
+    "lng": -78.59941286,
+    "address": "901 Old Fairground Road Willow Spring, NC 27592",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Religious Community Services -Shelter",
+    "lat": 35.11516,
+    "lng": -77.0453,
+    "address": "919 George St New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Jacksonville",
+    "lat": 34.76552367,
+    "lng": -77.48833675,
+    "address": "121 Stillwood Dr Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Religious Community Services",
+    "lat": 35.11515451,
+    "lng": -77.04531941,
+    "address": "919 George St New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Jacksonville",
+    "lat": 34.75291254,
+    "lng": -77.40850007,
+    "address": "1310 Hargett St Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Maysville",
+    "lat": 34.90107785,
+    "lng": -77.22758172,
+    "address": "804 Foy Ave Maysville, NC 28555",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Recruiters for Christ Church",
+    "lat": 35.33805178,
+    "lng": -78.64888318,
+    "address": "931 Red Hill Church Rd Dunn, NC 28334",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salem United Methodist Church",
+    "lat": 35.57538901,
+    "lng": -77.27467108,
+    "address": "785 McDonald St Simpson, NC 27879",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saints Delight United Holy Church",
+    "lat": 36.46005183,
+    "lng": -78.3196049,
+    "address": "540 Bullocksville Park Rd Manson, NC 27553",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation and Deliverance Family Worship Center",
+    "lat": 34.3012489,
+    "lng": -78.14750567,
+    "address": "4402 NW Rd Leland, NC 28451",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Peter Catholic Church",
+    "lat": 35.60637,
+    "lng": -77.3419,
+    "address": "2700 E 4th St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Greenville",
+    "lat": 35.58886,
+    "lng": -77.39711284,
+    "address": "2718 S Memorial Dr Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pender County Christian Services",
+    "lat": 34.69213318,
+    "lng": -77.95729169,
+    "address": "9955 HWY 11 Willard, NC 28478",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Sandhills UCC",
+    "lat": 35.12352,
+    "lng": -79.42221769,
+    "address": "321 Keyser St Aberdeen, NC 28315",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Paradise Christian Center",
+    "lat": 35.56888223,
+    "lng": -77.44240666,
+    "address": "908 W Star St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Showers of Blessing Community",
+    "lat": 35.57360065,
+    "lng": -78.53931629,
+    "address": "9759-B Cleveland Rd Clayton, NC 27520",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Solid Rock Ministry International Inc.",
+    "lat": 35.71601444,
+    "lng": -78.60225517,
+    "address": "502 Creech Rd Garner, NC 27529",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Spirit & Truth Worship Center",
+    "lat": 35.63394,
+    "lng": -77.37100581,
+    "address": "1512 N Greene St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Open Door Baptist Church",
+    "lat": 35.89928926,
+    "lng": -78.57894962,
+    "address": "9801 Durant Rd Raleigh, NC 27614",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Onslow Community Outreach",
+    "lat": 34.75002938,
+    "lng": -77.41272841,
+    "address": "1210 Hargett St Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Onslow Community Outreach",
+    "lat": 34.75002938,
+    "lng": -77.41272841,
+    "address": "1210 Hargett St Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "State Street Community Church",
+    "lat": 35.764721,
+    "lng": -78.624737,
+    "address": "1200 S State St Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Staton Mill Road Community",
+    "lat": 35.657747,
+    "lng": -77.392152,
+    "address": "1251 Fleming School Rd Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Oak Grove UA Free Will Baptist",
+    "lat": 35.98159012,
+    "lng": -78.89261066,
+    "address": "1008A Simmons St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Tabernacle of God Community",
+    "lat": 35.66492103,
+    "lng": -77.8006682,
+    "address": "6326 Speight School Rd Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Tar River Cowboy Church \"Feed My People\"",
+    "lat": 35.96237423,
+    "lng": -78.29110366,
+    "address": "1308 NC 98 HWY W Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Tarboro Community Outreach",
+    "lat": 35.89625313,
+    "lng": -77.53996134,
+    "address": "701 Cedar Ln Tarboro, NC 27886",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "NEEDS Center",
+    "lat": 35.59162,
+    "lng": -77.6222,
+    "address": "9243 W Marlboro Rd Farmville, NC 27828",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Young Memorial",
+    "lat": 36.35866688,
+    "lng": -78.34357312,
+    "address": "505 Brookston Rd Henderson, NC 27537",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Men and Women United for Youth and Families",
+    "lat": 34.3775442,
+    "lng": -78.29112398,
+    "address": "1795 Woodyard Rd Reigelwood, NC 28456",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mebane's Chapel United Holy",
+    "lat": 36.07998432,
+    "lng": -79.11052841,
+    "address": "421 Union St Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wilson Youth United Inc dba The SPOT",
+    "lat": 35.72206,
+    "lng": -77.9285,
+    "address": "910 Tarboro Saint W Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mt Bethel United Methodist",
+    "lat": 36.16697812,
+    "lng": -78.87625664,
+    "address": "1605 Bahama Rd Durham, NC 27503",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Macedonia Church of Lenoir County",
+    "lat": 35.19334,
+    "lng": -77.63999483,
+    "address": "648 Albrittons Rd Kinston, NC 28504",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mount Zion Christian Church",
+    "lat": 36.33574204,
+    "lng": -78.3921848,
+    "address": "995 Burr St Henderson, NC 27536",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wilson County Interfaith",
+    "lat": 35.72954101,
+    "lng": -77.91533925,
+    "address": "311 Nash St W Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wilson Chapel Free Will Baptist Church",
+    "lat": 35.72076612,
+    "lng": -77.90782238,
+    "address": "513 Barnes St S Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mother Hubbard's Cupboard",
+    "lat": 34.24142069,
+    "lng": -77.94580672,
+    "address": "315 Red Cross St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "White Oak Foundation",
+    "lat": 35.78017219,
+    "lng": -78.91891885,
+    "address": "1621 White Oak Church Rd Apex, NC 27523",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "NCA Philip Randolph Inst",
+    "lat": 35.7841,
+    "lng": -78.65697583,
+    "address": "1408 Hillsborough St Raleigh, NC 27605",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Milagros y Maravillas de Dios",
+    "lat": 35.53732855,
+    "lng": -78.29194093,
+    "address": "711 W Noble St Selma, NC 27576",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Martha's Mission Cupboard",
+    "lat": 34.72390231,
+    "lng": -76.71400986,
+    "address": "901 Bay St Morehead City, NC 28557",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Western Wake Crisis Ministry",
+    "lat": 35.73712131,
+    "lng": -78.89105171,
+    "address": "1600 Olive Chapel Rd Ste 408 Apex, NC 27502",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Worship Center",
+    "lat": 35.1912885,
+    "lng": -79.4100879,
+    "address": "150 Eastman Rd # 1A Southern Pines, NC 28387",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Warrenton Missionary Baptist Church",
+    "lat": 36.39735482,
+    "lng": -78.15427806,
+    "address": "114 S Bragg St Warrenton, NC 27589",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Loaves and Fishes Ministries",
+    "lat": 36.4048074,
+    "lng": -78.16205324,
+    "address": "538 W Ridgeway St Warrenton, NC 27589",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Victory & Dominion",
+    "lat": 35.454659,
+    "lng": -77.690531,
+    "address": "1438 Hwy 13 Snow Hill, NC 28580",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Vaughn's Chapel MB Church",
+    "lat": 35.78261754,
+    "lng": -77.85900377,
+    "address": "4966 S Elm City Rd Elm City, NC 27822",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Union Missionary Baptist",
+    "lat": 34.24438,
+    "lng": -77.91162725,
+    "address": "2711 Princess Pl Dr Wilmington, NC 28405",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Truth Foundational Ministries",
+    "lat": 35.79343,
+    "lng": -77.6348,
+    "address": "312 N Second St Pinetops, NC 27864",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Living Waters Ministries of",
+    "lat": 35.80697309,
+    "lng": -77.58888717,
+    "address": "7421 US Hwy 258 S Pinetops, NC 27864",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kirk of Kildaire Presbyterian Church",
+    "lat": 35.76213094,
+    "lng": -78.78502181,
+    "address": "200 High Meadow Dr Cary, NC 27511",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kings Park Church",
+    "lat": 35.930456,
+    "lng": -78.8921857,
+    "address": "1305 Odyssey Dr Durham, NC 27713",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lighthouse Community Church",
+    "lat": 34.88273787,
+    "lng": -76.34120242,
+    "address": "146 School Dr Atlantic, NC 28511",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Triumph Missionary Baptist Church",
+    "lat": 35.606018,
+    "lng": -77.148034,
+    "address": "7874 US Highway 264 E Washington, NC 27889",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mount Moriah Community Church",
+    "lat": 35.5852983,
+    "lng": -77.5913172,
+    "address": "4329 Anderson Ave Farmville, NC 27828",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Liberty Baptist Church of Wilmington",
+    "lat": 34.29066098,
+    "lng": -77.8020316,
+    "address": "7957 Market St Wilmington, NC 28411",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kingdom Builders Youth Development Program",
+    "lat": 35.37683518,
+    "lng": -77.98895609,
+    "address": "600 E Pine St Goldsboro, NC 27530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mt Zion Community Church",
+    "lat": 34.99132409,
+    "lng": -78.07555305,
+    "address": "250 Lanefield Rd Warsaw, NC 28398",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Trinity Missionary Baptist",
+    "lat": 33.96957811,
+    "lng": -78.33186324,
+    "address": "883 Holden Beach Rd Shallotte, NC 28470",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "JT Kerr Memorial Baptist",
+    "lat": 34.74825011,
+    "lng": -77.43241456,
+    "address": "150 LP Willingham Pkwy Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Bethel Baptist Church",
+    "lat": 35.9167899,
+    "lng": -78.45244556,
+    "address": "605 E Young St Rolesville, NC 27571",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Inter-Faith Council Community Market",
+    "lat": 35.91034,
+    "lng": -79.07359523,
+    "address": "110 West Main St Carrboro, NC 27510",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Birth Holiness Church",
+    "lat": 35.46895355,
+    "lng": -78.16227104,
+    "address": "409 Dr Donnie Jones Jr Blvd W Princeton, NC 27569",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Home and Durham Missionary Baptist Association",
+    "lat": 36.12391111,
+    "lng": -78.94205048,
+    "address": "6611 Guess Rd Durham, NC 27712",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Tri-Area Ministry",
+    "lat": 35.97208,
+    "lng": -78.51332543,
+    "address": "149 East Holding Ave Wake Forest, NC 27587",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Hope Granville Missionary Baptist Church",
+    "lat": 36.32468472,
+    "lng": -78.74253855,
+    "address": "5643 Old Roxboro Rd Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Town of Chapel Hill",
+    "lat": 35.97084113,
+    "lng": -79.07120747,
+    "address": "2000 Eubanks Rd Chapel Hill Park and Ride lot Chapel Hill, NC 27614",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia Tabernaculo De Restauracion",
+    "lat": 35.69083,
+    "lng": -78.5275,
+    "address": "7604 Rock Quarry Rd. Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Three In One Family Center",
+    "lat": 35.26953,
+    "lng": -77.5753,
+    "address": "400 Grainger Ave Kinston, NC 28501",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Three In One Family Center",
+    "lat": 34.95365531,
+    "lng": -78.50307981,
+    "address": "607 NC-24 Roseboro, NC 28382",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pinebluff United Methodist Church",
+    "lat": 35.109065,
+    "lng": -79.474041,
+    "address": "165 W Philadephia Ave Pinebluff, NC 28373",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia de Dios Pentecostal",
+    "lat": 34.76822494,
+    "lng": -77.38871585,
+    "address": "1042 Country Club Rd Jacksonville, NC 28546",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "House of Mercy Outreach",
+    "lat": 34.15475,
+    "lng": -77.89256177,
+    "address": "4702 S College Rd Wilmington, NC 28412",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "House of Fordham/Goldsboro",
+    "lat": 35.38695658,
+    "lng": -77.99115801,
+    "address": "412 N William St Goldsboro, NC 27530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Way of the Cross Outreach",
+    "lat": 36.44677158,
+    "lng": -77.69871944,
+    "address": "64 Craigmont Ave Roanoke Rapids, NC 27870",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Parktown Food Hub",
+    "lat": 35.89434687,
+    "lng": -78.90912133,
+    "address": "5123 Revere Rd Durham, NC 27713",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pantry of H.O.P.E.",
+    "lat": 36.01051561,
+    "lng": -78.28494606,
+    "address": "3331 NC 39 Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wendell United Methodist",
+    "lat": 35.78398152,
+    "lng": -78.37001987,
+    "address": "129 N Main St Wendell, NC 27591",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Warsaw Baptist Church",
+    "lat": 35.00028794,
+    "lng": -78.08969684,
+    "address": "209 E College St Warsaw, NC 28398",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pamlico County Fishes & Loaves",
+    "lat": 35.04618528,
+    "lng": -76.68051493,
+    "address": "1149 White Farm Rd Oriental, NC 28571",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Oxford Speaks Life Church House of Ministries",
+    "lat": 36.30251777,
+    "lng": -78.5869146,
+    "address": "512 Granville St Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "TWFC Food-4-Life",
+    "lat": 35.44219944,
+    "lng": -78.00139743,
+    "address": "296 Buck Swap Rd Goldsboro, NC 27530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Olive Grove Missionary Baptist Church",
+    "lat": 36.46657,
+    "lng": -77.98870589,
+    "address": "915 Eaton Ferry Rd Littleton, NC 27850",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Zion AME Zion Church",
+    "lat": 35.45368533,
+    "lng": -79.60146813,
+    "address": "4967 Hwy 705 Robbins, NC 27325",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Oak Level Christian Church",
+    "lat": 36.03873517,
+    "lng": -78.44925199,
+    "address": "2279 Cedar Creek Rd Youngsville, NC 27596",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Havelock Cherry Point",
+    "lat": 34.86529534,
+    "lng": -76.8970122,
+    "address": "925 E Main St Ste 20 Havelock, NC 28532",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Twilight Missionary Baptist",
+    "lat": 36.38496967,
+    "lng": -77.63966173,
+    "address": "1781 Aurelian Springs Rd Weldon, NC 27839",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "United Solid Rock Faith Ministries",
+    "lat": 36.425431,
+    "lng": -78.17746,
+    "address": "1020 US Hwy 158 W Business Norlina, NC 27563",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Upper Room Church of God",
+    "lat": 35.7375311,
+    "lng": -78.61782363,
+    "address": "3300 Idlewood Village Dr Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Vass Community Food Pantry",
+    "lat": 35.21606,
+    "lng": -79.2601,
+    "address": "3450 US Business Hwy 1 Vass, NC 28394",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Nothing But the Truth Ministry",
+    "lat": 35.37886394,
+    "lng": -77.93569677,
+    "address": "1009 Berkeley Blvd Goldsboro, NC 27534",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Vision Christian Church",
+    "lat": 35.03205255,
+    "lng": -78.32679934,
+    "address": "2102 Hobbton Hwy Clinton, NC 28329",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "A Touch of the Father's Love Inc",
+    "lat": 35.96097986,
+    "lng": -78.05635229,
+    "address": "5193 Momeyer Way Nashville, NC 27856",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Providence Missionary",
+    "lat": 35.63154781,
+    "lng": -78.7462234,
+    "address": "4813 Hilltop Needmore Rd Fuquay-Varina, NC 27526",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "REACH Our Communities-Cathedral of Love Ministries",
+    "lat": 35.78891,
+    "lng": -78.206,
+    "address": "12564 W Hanes Ave Middlesex, NC 27577",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Raleigh Rescue Mission",
+    "lat": 35.77786139,
+    "lng": -78.63430153,
+    "address": "314 E Hargett St Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Raleigh Rescue Mission",
+    "lat": 35.77786139,
+    "lng": -78.63430153,
+    "address": "314 E Hargett St Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "One Love Ministries",
+    "lat": 36.0569638,
+    "lng": -78.92330572,
+    "address": "1315 Horton Rd Durham, NC 27704",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wake Relief",
+    "lat": 35.78063906,
+    "lng": -78.6360748,
+    "address": "4 N Blount St Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Grace AME Church",
+    "lat": 35.78127777,
+    "lng": -78.61737863,
+    "address": "1401 Boyer St Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Princeton United Methodist Food Pantry",
+    "lat": 35.46460091,
+    "lng": -78.16040012,
+    "address": "101 E 1st St Princeton, NC 27569",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Power of Praise",
+    "lat": 35.36975444,
+    "lng": -78.55274687,
+    "address": "1100 S Market St Benson, NC 27504",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pleasant Union Christian",
+    "lat": 35.43900715,
+    "lng": -78.77418233,
+    "address": "2164 Neills Creek Rd Lillington, NC 27546",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "White Oak Foundation at Shalom Christian Community",
+    "lat": 35.7113,
+    "lng": -78.6142,
+    "address": "309 Holman Dr Garner, NC 27529",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "White Rock Baptist Church",
+    "lat": 35.95783401,
+    "lng": -78.91113098,
+    "address": "3400 Fayetteville St Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Good Shepherd Center - Pantry",
+    "lat": 34.21872153,
+    "lng": -77.93666785,
+    "address": "811 Martin St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Good Shepherd Center - Meals",
+    "lat": 34.21872153,
+    "lng": -77.93666785,
+    "address": "811 Martin St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pettiford Grove Baptist Church",
+    "lat": 36.20449665,
+    "lng": -78.55801682,
+    "address": "3579 Cannady Mill Rd Kittrell, NC 27544",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Oak Grove Community",
+    "lat": 36.463234,
+    "lng": -79.01794,
+    "address": "854 Oak Grove Mt Zion Rd Roxboro, NC 27574",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Woods Chapel UAFWB Church",
+    "lat": 35.38096855,
+    "lng": -77.89029924,
+    "address": "928 E New Hope Rd Goldsboro, NC 27534",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Word of God Christian Center",
+    "lat": 35.13843663,
+    "lng": -77.09925906,
+    "address": "3650 Neuse Blvd New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Zion Christian Center",
+    "lat": 36.4254657,
+    "lng": -78.9269419,
+    "address": "2850 Virgilina Rd Roxboro, NC 27574",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Partners In Ministry",
+    "lat": 34.76964856,
+    "lng": -79.44676267,
+    "address": "12 3rd St Laurinburg, NC 28343",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Folkstone Original Free Will",
+    "lat": 34.5360181,
+    "lng": -77.50187799,
+    "address": "133 Old Folkstone Rd Holly Ridge, NC 28445",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pamlico County Fishes & Loaves",
+    "lat": 35.0469173,
+    "lng": -76.6897607,
+    "address": "108 Straight Rd Oriental, NC 28571",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Our Lady of Perpetual Church",
+    "lat": 35.93954742,
+    "lng": -77.80131059,
+    "address": "328 Hammond St Rocky Mount, NC 27804",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Christian Church",
+    "lat": 35.59608,
+    "lng": -77.58675281,
+    "address": "3776 S. Main St Farmville, NC 27828",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Baptist Church of Smithfield",
+    "lat": 35.5091048,
+    "lng": -78.34583213,
+    "address": "202 S Fourth St Smithfield, NC 27577",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Baptist Church Carolina Beach",
+    "lat": 34.03726,
+    "lng": -77.89405651,
+    "address": "409 N Lake Park Blvd Carolina Beach, NC 28428",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Feed the Pack",
+    "lat": 35.78726462,
+    "lng": -78.66474443,
+    "address": "2200 Hillsborough St Raleigh, NC 27607",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Orange County DSS",
+    "lat": 36.0603601,
+    "lng": -79.10608005,
+    "address": "113 Mayo St Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Baptist Grove",
+    "lat": 35.8735929,
+    "lng": -78.70232235,
+    "address": "7109 Leesville Rd Raleigh, NC 27613",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Market on Greenfield",
+    "lat": 34.21713329,
+    "lng": -77.93440557,
+    "address": "1000 Greenfield St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Faith Gospel Tabernacle",
+    "lat": 35.97655599,
+    "lng": -78.88288497,
+    "address": "663 Troy St Durham, NC 27703",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Faith Assembly Church - Pantry & Food Distribution",
+    "lat": 34.90395821,
+    "lng": -79.69347561,
+    "address": "148 Daniels St Hamlet, NC 28345",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Emanuel Food Pantry",
+    "lat": 36.02186156,
+    "lng": -78.88950583,
+    "address": "2504 N Roxboro St Durham, NC 27704",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "East Duplin Christian Outreach",
+    "lat": 34.92193173,
+    "lng": -77.76852662,
+    "address": "111 S Old Chinquapin Rd Beulaville, NC 28518",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Optimal Beginnings Inc",
+    "lat": 35.45505883,
+    "lng": -77.691122,
+    "address": "369-B Hwy 13 S Snow Hill, NC 28580",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Duplin Christian Outreach - Helping Hands",
+    "lat": 34.73412874,
+    "lng": -77.99784912,
+    "address": "205 W Main St Wallace, NC 28466",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Dream Seeker - Church of the Apostolic Revival Intl",
+    "lat": 35.98617297,
+    "lng": -78.88793096,
+    "address": "1207 Angier Ave Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Open Door Management Inc",
+    "lat": 34.77337672,
+    "lng": -77.35576838,
+    "address": "1675 Halltown Rd Jacksonville, NC 28546",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "West End United Methodist",
+    "lat": 35.23978,
+    "lng": -79.56605274,
+    "address": "4015 NC Hwy 73 West End, NC 27376",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Williams Grove Baptist Church",
+    "lat": 35.76969951,
+    "lng": -78.61819989,
+    "address": "735 Rock Quarry Rd Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Oak City Baptist Church",
+    "lat": 35.78951,
+    "lng": -78.6941,
+    "address": "726 Method Rd. Raleigh, NC 27607",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Piney Grove Baptist Church",
+    "lat": 36.05225,
+    "lng": -79.05384486,
+    "address": "1929 Piney Grove Rd Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "North Haven Ministries Inc",
+    "lat": 35.87087,
+    "lng": -78.64074855,
+    "address": "6620 Six Forks Rd Raleigh, NC 27615",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Poplar Springs Christian",
+    "lat": 35.69537286,
+    "lng": -78.65242823,
+    "address": "6115 Old Stage Rd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Reelsboro United Christian Services",
+    "lat": 35.13373254,
+    "lng": -76.91863089,
+    "address": "51 Holland Dr New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Regeneration Development Group, Inc",
+    "lat": 35.79098216,
+    "lng": -77.63753973,
+    "address": "105 SW 1st St Suite D Pinetops, NC 27864",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Religious Community Services",
+    "lat": 34.88640357,
+    "lng": -76.91740872,
+    "address": "114 Trade Ave Havelock, NC 28532",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Community Helpers Service",
+    "lat": 35.78815809,
+    "lng": -78.48095771,
+    "address": "111-B N First Ave Knightdale, NC 27545",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint John's House of Refuge",
+    "lat": 36.01319027,
+    "lng": -78.91400773,
+    "address": "1307 W Knox St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Communities in Partnership",
+    "lat": 35.98560059,
+    "lng": -78.87785188,
+    "address": "101 S Driver St Durham, NC 27703",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Clayton Area Ministries",
+    "lat": 35.6394,
+    "lng": -78.45963012,
+    "address": "780 Durham St Clayton, NC 27520",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint John's Emergency Food",
+    "lat": 34.76539,
+    "lng": -79.57363,
+    "address": "7700 Gibson Rd Gibson, NC 28343",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint John United Holy Church",
+    "lat": 35.91551344,
+    "lng": -79.11510241,
+    "address": "607 Pine Acres Rd Chapel Hill, NC 27516",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christian Community Caring Center",
+    "lat": 34.37223198,
+    "lng": -77.70446474,
+    "address": "15200 US Hwy 17 Hampstead, NC 28443",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint James Missionary Baptist Church",
+    "lat": 35.94241076,
+    "lng": -77.7884303,
+    "address": "527 E Thomas St Rocky Mount, NC 27801",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christ Memorial Church",
+    "lat": 34.94112143,
+    "lng": -79.75947723,
+    "address": "1110 E Washington St Rockingham, NC 28379",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint James Methodist Church",
+    "lat": 34.78912513,
+    "lng": -76.86047565,
+    "address": "801 Mann St Newport, NC 28570",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint James Christian Church Disciples of Christ",
+    "lat": 35.71447572,
+    "lng": -77.889337,
+    "address": "1739 Martin Luther King Jr Pkwy E Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint James AME Church",
+    "lat": 34.31192,
+    "lng": -77.92219529,
+    "address": "3425 Castle Hayne Rd Castle Hayne, NC 28429",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Royal Oak Concerned Citizens Association",
+    "lat": 34.04545137,
+    "lng": -78.29504081,
+    "address": "246 Little Macedonia Rd Supply, NC 28462",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Royal Oak Community Food Asssistance",
+    "lat": 34.02057221,
+    "lng": -78.2949155,
+    "address": "405 Big Macedonia Rd Supply, NC 28462",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Catholic Charities- Tar River",
+    "lat": 35.57005,
+    "lng": -77.4406735,
+    "address": "1746 Union St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Rougemont Food Pantry",
+    "lat": 36.218381,
+    "lng": -78.92608521,
+    "address": "105 Red Mountain Rd Rougemont, NC 27572",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Care and Share, Inc.",
+    "lat": 36.10364,
+    "lng": -78.29097081,
+    "address": "110 Industrial Dr Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Robbins Area Christian",
+    "lat": 35.43386,
+    "lng": -79.58695679,
+    "address": "120 S Middleton St Robbins, NC 27325",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Revelation Missionary",
+    "lat": 35.77545913,
+    "lng": -78.62595952,
+    "address": "805 E Davie St Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Calvary Baptist Church",
+    "lat": 34.72848374,
+    "lng": -76.6393991,
+    "address": "1700 Live Oak St Beaufort, NC 28516",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Religious Community Services",
+    "lat": 35.14266433,
+    "lng": -76.77281167,
+    "address": "313 Main St Bayboro, NC 28515",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Renewal Place",
+    "lat": 35.53993197,
+    "lng": -77.97581728,
+    "address": "106 Norwayne Alumni Way Fremont, NC 27830",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Revival Deliverance Ctr Inc",
+    "lat": 34.9475784,
+    "lng": -78.50813412,
+    "address": "101 E Pinewood St Roseboro, NC 28382",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Building Bridges Without Limits",
+    "lat": 36.17646304,
+    "lng": -77.65747176,
+    "address": "577 E Franklin St Enfield, NC 27823",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bread of Life Ministries",
+    "lat": 35.48042,
+    "lng": -79.1715324,
+    "address": "219 Maple Ave Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Richland Creek Community",
+    "lat": 35.92148479,
+    "lng": -78.52143576,
+    "address": "3229 Burlington Mills Rd Wake Forest, NC 27587",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Rock Ministry Inc",
+    "lat": 34.79011,
+    "lng": -78.39751251,
+    "address": "350 W 2nd St Garland, 28441",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Rogers-Eubanks Neighborhood",
+    "lat": 35.9599115,
+    "lng": -79.08160405,
+    "address": "101 Edgar St Chapel Hill, NC 27516",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Blood of the Lamb Church",
+    "lat": 35.39431421,
+    "lng": -77.96839209,
+    "address": "1100 The First Church Rd Goldsboro, NC 27534",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Blessings Inc/Saint Paul Presbyterian Church",
+    "lat": 36.09002922,
+    "lng": -78.3073446,
+    "address": "928 S Main St Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bethlehem Baptist Church",
+    "lat": 35.87855067,
+    "lng": -78.64604943,
+    "address": "7215 Six Forks Rd Raleigh, NC 27615",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Benson Area Ministerial",
+    "lat": 35.38874,
+    "lng": -78.53585406,
+    "address": "1204 N Johnson St Benson, NC 27504",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Belton Creek Baptist Church",
+    "lat": 36.24246697,
+    "lng": -78.5879465,
+    "address": "4153 Hwy 96 S Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bear Paws Food Pantry",
+    "lat": 35.10052277,
+    "lng": -77.11533412,
+    "address": "4200 Academic Dr New Bern, NC 28562",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Beach Christian Recovery",
+    "lat": 33.88750815,
+    "lng": -78.56499785,
+    "address": "1198 B Riverview Dr Calabash, NC 28467",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Ayden Christian Care Center",
+    "lat": 35.4715615,
+    "lng": -77.41629801,
+    "address": "109B N West Ave Ayden, NC 28513",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "S & C Food Pantry",
+    "lat": 35.50571863,
+    "lng": -78.33626888,
+    "address": "1110 Massey St Smithfield, NC 27577",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Armor of God Christian Church",
+    "lat": 35.52712228,
+    "lng": -77.4036151,
+    "address": "2648 Mill St Winterville, NC 28590",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Antioch United Holy Church",
+    "lat": 35.58895894,
+    "lng": -77.51527009,
+    "address": "2659 Railroad St Bell Arthur, NC 27811",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Antioch Community Outreach Inc",
+    "lat": 35.16843177,
+    "lng": -77.04983231,
+    "address": "762 Antioch Rd New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "An-Nissa 2",
+    "lat": 35.68195854,
+    "lng": -77.39317519,
+    "address": "1152 Briley Rd Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Angier Area Food Pantry",
+    "lat": 35.4296,
+    "lng": -78.7653,
+    "address": "455 W Depot St Angier, NC 27501",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Alpha and Omega Church",
+    "lat": 35.26667526,
+    "lng": -77.57462478,
+    "address": "410 E Washington St Kinston, NC 28501",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Anna Freewill Baptist",
+    "lat": 35.59293975,
+    "lng": -78.69014554,
+    "address": "11705 Old Stage Rd Willow Springs, NC 27592",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint James United Methodist",
+    "lat": 35.60551687,
+    "lng": -77.3522066,
+    "address": "2006 E 6th St Greenville, NC 27858",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "PORCH Hillsborough at Cedar Grove Community Center",
+    "lat": 36.1791,
+    "lng": -79.1367708,
+    "address": "5800 NC Hwy 86 N Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lakeside Lutheran Church",
+    "lat": 36.53304743,
+    "lng": -77.9411261,
+    "address": "2427 Eaton Ferry Rd Littleton, NC 27850",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Adelphia CDC Inc - St Mark",
+    "lat": 35.15186239,
+    "lng": -76.76816851,
+    "address": "511 Water Rd Bayboro, NC 28515",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "ACTS of Vance County - Meals",
+    "lat": 36.32572803,
+    "lng": -78.40340573,
+    "address": "201 S William St Henderson, NC 27536",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Abundant Life International",
+    "lat": 34.78483716,
+    "lng": -77.42218965,
+    "address": "1518 Gum Branch Rd Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "A Touch From Above Faith",
+    "lat": 35.58273366,
+    "lng": -78.35351422,
+    "address": "654 Main St Wilson Mills, NC 27593",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wildwood Presbyterian Church",
+    "lat": 34.74946331,
+    "lng": -76.82612175,
+    "address": "276 Wildwood Rd Newport, NC 28570",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "A Better Chance, A Better Community",
+    "lat": 36.16669,
+    "lng": -77.52647539,
+    "address": "6878 Old 125 Rd Scotland Neck, NC 27874",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Zion Chapel Food Pantry",
+    "lat": 35.46615805,
+    "lng": -77.4221533,
+    "address": "377 Planters St Ayden, NC 28513",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "You Need Help Ministry",
+    "lat": 35.30681,
+    "lng": -77.78883521,
+    "address": "109 W Rail Road Rd LaGrange, NC 28551",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Word of Truth",
+    "lat": 35.62008,
+    "lng": -77.58570909,
+    "address": "7227 Stantonsburg Rd Farmville, NC 27828",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Word of God Fellowship",
+    "lat": 35.74673456,
+    "lng": -78.59763062,
+    "address": "3000 Rock Quarry Rd Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Helping Hands of Hamlet",
+    "lat": 34.87761121,
+    "lng": -79.72466534,
+    "address": "609 Cheraw Rd Hamlet, NC 28345",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Healing With CAARE",
+    "lat": 36.00122243,
+    "lng": -78.89875862,
+    "address": "214 Broadway St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hannah's Community Kitchen",
+    "lat": 36.09278981,
+    "lng": -78.91010495,
+    "address": "5524 N Roxboro Rd Durham, NC 27712",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Tabernacle Baptist Church",
+    "lat": 35.10868,
+    "lng": -77.0438,
+    "address": "616 Broad St New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Obedience To The Word",
+    "lat": 36.03072014,
+    "lng": -78.88310717,
+    "address": "644 Bon Air Ave Durham, NC 27704",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Urban Ministries - Meals",
+    "lat": 35.99346644,
+    "lng": -78.89587432,
+    "address": "410 Liberty St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Urban Ministries - Food Pantry",
+    "lat": 35.99346644,
+    "lng": -78.89587432,
+    "address": "410 Liberty St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "United Community Ministries",
+    "lat": 35.9473,
+    "lng": -77.7975,
+    "address": "341 McDonald St Rocky Mount, NC 27802",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Unionville Missionary Baptist",
+    "lat": 34.82975,
+    "lng": -79.39406137,
+    "address": "19400 Blakley Rd Laurinburg, 28352",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "UMOJA Central SDA Church",
+    "lat": 35.78232156,
+    "lng": -78.73887884,
+    "address": "314 Bashford Rd Raleigh, NC 27606",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "King's Gate Church",
+    "lat": 34.91280028,
+    "lng": -79.7155413,
+    "address": "161 Sierra Ave Hamlet, NC 28345",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Progressive Teamwork Outreach",
+    "lat": 35.81030157,
+    "lng": -78.33643006,
+    "address": "1300 Mack Todd Rd Zebulon, NC 27597",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia Casa Del Alfarero CDA INC.",
+    "lat": 35.15645759,
+    "lng": -78.32601764,
+    "address": "10727 Hobbton Highway Clinton, NC 28328",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Vision Church - MP",
+    "lat": 35.62884979,
+    "lng": -78.05373753,
+    "address": "500 W Goldsboro St Kenly, NC 27542",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Towncreek Vision Corporation",
+    "lat": 34.17338,
+    "lng": -78.08317278,
+    "address": "215 Sunnybrook Way Rd Leland, NC 28479",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Ties for Guys Mens Ministry",
+    "lat": 35.65739164,
+    "lng": -78.46084827,
+    "address": "405 W Whitaker St Clayton, NC 27527",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Ship Outreach at Bethany Community Church",
+    "lat": 35.96300707,
+    "lng": -78.51688632,
+    "address": "1225 South Main St Wake Forest, NC 27587",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Castalia Community Food Giveaway",
+    "lat": 36.077923,
+    "lng": -78.06897,
+    "address": "10404 Lancaster Store Rd Castalia, NC 27816",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pine Ridge Baptist Church",
+    "lat": 35.91123892,
+    "lng": -78.23974699,
+    "address": "874 Pine Ridge Rd Zebulon, NC 27597",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Storehouse Pantry",
+    "lat": 34.727752,
+    "lng": -76.74607097,
+    "address": "3114 Bridges St Morehead City, NC 28557",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Journey Ministry",
+    "lat": 36.01988,
+    "lng": -78.47485082,
+    "address": "426 S Cross St Youngsville, NC 27596",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Help Center NC - Louisburg",
+    "lat": 36.10365205,
+    "lng": -78.29097081,
+    "address": "110 Industrial Dr Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Healing Place of New Hanover County, Inc.",
+    "lat": 34.1985069,
+    "lng": -77.93078995,
+    "address": "1000 Medical Center Drive Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Gathering Place",
+    "lat": 34.88641342,
+    "lng": -76.91741325,
+    "address": "114 Trader Ave Havelock, NC 28532",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Nelson Chapel Baptist Church",
+    "lat": 36.08081636,
+    "lng": -78.2423062,
+    "address": "100 Leonard Farm Rd Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Ship Outreach at Storehouse Ministries",
+    "lat": 35.9062232,
+    "lng": -78.48140790000001,
+    "address": "1087 S Main St Rolesville, NC 27587",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Anointed Ones Church",
+    "lat": 35.46752993,
+    "lng": -77.40695512,
+    "address": "4271 N Edge Rd Ayden, NC 28513",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Anointed Ones Church",
+    "lat": 35.46752993,
+    "lng": -77.40695512,
+    "address": "4271 N Edge Rd Ayden, NC 28513",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Our Daily Bread Christian Food",
+    "lat": 34.93905085,
+    "lng": -79.77114936,
+    "address": "108 S Randolph St Rockingham, NC 28379",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Temple Emmanuel Gospel Truth",
+    "lat": 36.4221145,
+    "lng": -77.59909374,
+    "address": "9 E 8th St Weldon, NC 27890",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Ministerio Esperanza De Vida",
+    "lat": 34.91194797,
+    "lng": -78.06784849,
+    "address": "594 Isham Frederick Rd Magnolia, NC 28453",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Ivory Hill Baptist Church",
+    "lat": 36.24392575,
+    "lng": -77.87582302,
+    "address": "4505 Medoc Mountain Rd Enfield, NC 27850",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Tarboro Community Outreach",
+    "lat": 35.89625313,
+    "lng": -77.53996134,
+    "address": "701 Cedar Ln Tarboro, NC 27886",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Straightway Church",
+    "lat": 35.46961057,
+    "lng": -77.41077886,
+    "address": "627 Boulevard St Ayden, NC 28513",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Baptist Church of Leland",
+    "lat": 34.24122,
+    "lng": -78.01305867,
+    "address": "517 Village Rd Leland, NC 28451",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Outreach for Jesus",
+    "lat": 34.87728997,
+    "lng": -79.73938862,
+    "address": "440 Battley Dairy Rd Hamlet, NC 28345",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Sowing Seeds NC",
+    "lat": 36.1114895,
+    "lng": -78.41544903,
+    "address": "200 Ayscue Way Franklinton, NC 27525",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Southern Pines UMC",
+    "lat": 35.18164534,
+    "lng": -79.38054848,
+    "address": "175 Midland Rd Southern Pines, NC 28387",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Ship Outreach at TM Ministries",
+    "lat": 35.74684474,
+    "lng": -78.67460658,
+    "address": "2421 Lake Wheeler Rd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Shoreline Baptist Church",
+    "lat": 33.92874213,
+    "lng": -78.06212457,
+    "address": "4198 Vanessa Dr Southport, NC 28461",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Prayer and Faith Temple Church",
+    "lat": 34.88445,
+    "lng": -79.7015,
+    "address": "217 Thomas St Hamlet, NC 28345",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Shiloh Missionary Baptist Church",
+    "lat": 34.24065773,
+    "lng": -77.9408987,
+    "address": "719 Walnut St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Shiloh Baptist Church",
+    "lat": 36.321382,
+    "lng": -78.4028947,
+    "address": "635 College St Henderson, NC 27536",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Share the Table Inc",
+    "lat": 34.46942773,
+    "lng": -77.58211736,
+    "address": "21 Perkins Rd Hampstead, NC 28443",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Seed Time & Harvest Fellowship",
+    "lat": 36.03297597,
+    "lng": -78.88046025,
+    "address": "804 Berwyn Ave Durham, NC 27704",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Glad Tiding Church Inc",
+    "lat": 35.30692,
+    "lng": -78.6075,
+    "address": "323 E Broad St Dunn, NC 28334",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Grace Christian Church",
+    "lat": 35.87856,
+    "lng": -78.5367,
+    "address": "7715 Louisburg Rd Raleigh, NC 27616",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Smithfield",
+    "lat": 35.51111478,
+    "lng": -78.3376969,
+    "address": "306 N Brightleaf Blvd Smithfield, NC 27577",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army-Rocky Mount",
+    "lat": 35.970213,
+    "lng": -77.817369,
+    "address": "1000 Hunter Hill Rd Rocky Mount, NC 27804",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army-Raleigh",
+    "lat": 35.80714629,
+    "lng": -78.61705534,
+    "address": "1863 Capital Blvd Raleigh, NC 27601",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "South Brunswick Inter-Church",
+    "lat": 33.986218,
+    "lng": -78.39318,
+    "address": "3610 Express Dr Shallotte, NC 28470",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pine Grove Baptist Church",
+    "lat": 36.13596,
+    "lng": -78.71289307,
+    "address": "1624 Lake Rd/Hwy 56 Creedmoor, NC 27522",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Gateway Community Church",
+    "lat": 34.55171,
+    "lng": -77.93432963,
+    "address": "416 W Bridgers St Burgaw, NC 28425",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Wilmington",
+    "lat": 34.2363809,
+    "lng": -77.9444304,
+    "address": "20 N 4th St Suite 300 Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Wilmington",
+    "lat": 34.25622091,
+    "lng": -77.90822226,
+    "address": "1410 William Booth Drive Wilmington, NC 28405",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Hope Community Outreach",
+    "lat": 34.90502652,
+    "lng": -77.23165247,
+    "address": "504 Main St Suite C Maysville, NC 28555",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Lee County",
+    "lat": 35.46514,
+    "lng": -79.15892568,
+    "address": "1740 S Horner Blvd Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Durham",
+    "lat": 35.99315048,
+    "lng": -78.88539384,
+    "address": "909 Liberty St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Meals on Wheels Sandhills",
+    "lat": 35.2142388,
+    "lng": -79.5089943,
+    "address": "1975 Juniper Lake Road, Unit A1 West End, NC 27376",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Carteret County",
+    "lat": 34.726631,
+    "lng": -76.74078224,
+    "address": "2800 Bridges St Morehead City, NC 28557",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Montgomery Churches In Action",
+    "lat": 35.35878768,
+    "lng": -79.77877488,
+    "address": "203 Church St Biscoe, NC 27209",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Paul Lutheran",
+    "lat": 34.88943451,
+    "lng": -79.70787656,
+    "address": "311 Marlboro St Hamlet, NC 28345",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Alliance of AIDS Services",
+    "lat": 35.81690148,
+    "lng": -78.60531104,
+    "address": "3109 Poplarwood Ct Ste 200 Raleigh, NC 27604",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lifesavers Outreach",
+    "lat": 34.32336,
+    "lng": -78.71052563,
+    "address": "415 W Walter St Whiteville, NC 28472",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Paul AME Zion Church",
+    "lat": 34.32064594,
+    "lng": -78.27323059,
+    "address": "507 Money Hole Rd Bolton, NC 28423",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "PORCH Hillsborough",
+    "lat": 36.0904814,
+    "lng": -79.1095876,
+    "address": "192 Torain Street Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Joseph Parish Outreach",
+    "lat": 34.53534,
+    "lng": -77.9077688,
+    "address": "1303 Hwy 117 S Burgaw, NC 28425",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Way Church",
+    "lat": 35.62996561,
+    "lng": -78.61032555,
+    "address": "3704 Benson Rd Garner, NC 27529",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Rhema Word Christian Center/Wilson",
+    "lat": 35.70782894,
+    "lng": -77.90490405,
+    "address": "1503 Black Creek Rd Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Grace Within Transitions Foundation",
+    "lat": 35.8673679,
+    "lng": -78.59340739999999,
+    "address": "2611 Torquay Crossing Raleigh, NC 27616",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Macedonia New Life",
+    "lat": 35.75229,
+    "lng": -78.61328047,
+    "address": "2004 Rock Quarry Rd Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Saint Brendans Church",
+    "lat": 33.9569,
+    "lng": -78.43213572,
+    "address": "5101 Ocean Hwy W Shallotte, NC 28470",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Greater Deliverance Tabernacle",
+    "lat": 36.34213882,
+    "lng": -78.98474244,
+    "address": "199 Flat River Rd Roxboro, NC 27574",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Restoring Hope Center",
+    "lat": 34.79030202,
+    "lng": -79.45009577,
+    "address": "1206 North Main St Laurinburg, NC 28353",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Religious Community Services",
+    "lat": 35.11515451,
+    "lng": -77.04531941,
+    "address": "919 George St New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Christian Help Center of Person County",
+    "lat": 36.39392,
+    "lng": -78.98198899,
+    "address": "122 Depot St Roxboro, NC 27573",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Raleigh Church of Christ",
+    "lat": 35.77566767,
+    "lng": -78.72286061,
+    "address": "911 Barringer Dr Raleigh, NC 27606",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pentecostal Temple",
+    "lat": 35.62032014,
+    "lng": -77.4159177,
+    "address": "2753 W 5th St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Fruit Ministries",
+    "lat": 34.18797202,
+    "lng": -77.94090825,
+    "address": "2750 Vance St Wilmington, NC 28412",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Timberlake Community Center Food Pantry",
+    "lat": 36.3103605,
+    "lng": -78.8964329,
+    "address": "2545 Surl Mt. Tirzah Road Timberlake, NC 27583",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Place of Grace",
+    "lat": 34.91542671,
+    "lng": -79.76511171,
+    "address": "252 School St Rockingham Rockingham, NC 28379",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Fruit Ministries",
+    "lat": 34.18797202,
+    "lng": -77.94090825,
+    "address": "2750 Vance St Wilmington, NC 28412",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pete Norris Ministries Inc",
+    "lat": 35.38316542,
+    "lng": -77.99769596,
+    "address": "126 W Walnut St Goldsboro, NC 27533",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Salvation Army - Henderson",
+    "lat": 36.34148277,
+    "lng": -78.43506712,
+    "address": "2292 Ross Mill Rd Henderson, NC 27537",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Outreach Mission Inc.",
+    "lat": 35.47703253,
+    "lng": -79.17012466,
+    "address": "507 Third St Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Our Lady of the Rosary Food Pantry",
+    "lat": 36.11437,
+    "lng": -78.2958,
+    "address": "937 N Main St Louisburg, NC 27549",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Turning Point Community Development Corporation",
+    "lat": 36.35147,
+    "lng": -78.37803883,
+    "address": "2495 US 1/158 HWY Henderson, NC 27537",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Orange Congregations Mission",
+    "lat": 36.05080985,
+    "lng": -79.09753277,
+    "address": "300 Millstone Dr Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Open Table",
+    "lat": 35.79095387,
+    "lng": -78.63225579,
+    "address": "824 N Bloodworth St Raleigh, NC 27604",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Church of God-Sermon del Monte",
+    "lat": 35.69281344,
+    "lng": -78.67467187,
+    "address": "6105 Fayetteville Rd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Onslow Community Outreach",
+    "lat": 34.75002938,
+    "lng": -77.41272841,
+    "address": "1210 Hargett St Jacksonville, NC 28540",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "North Raleigh Ministries",
+    "lat": 35.849539,
+    "lng": -78.586369,
+    "address": "2809 E Millbrook Rd Raleigh, NC 27609",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Stone Chapel",
+    "lat": 35.97255988,
+    "lng": -78.51521036,
+    "address": "701 S Main St Wake Forest, NC 27587",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "New Freedom Christian Fellowship",
+    "lat": 35.79682072,
+    "lng": -78.58333251,
+    "address": "3540 Maitland Dr Ste 102 Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "MrCharity Inc. DBA Beast Philanthropy",
+    "lat": 35.56425,
+    "lng": -77.2566,
+    "address": "4839 School Rd Grimesland, 27837",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "MrCharity Inc. DBA Beast Philanthropy",
+    "lat": 35.59873,
+    "lng": -77.3845177,
+    "address": "811 Howell St Greenville, 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Movimiento Pentecostal y Misionero Perlas",
+    "lat": 35.38018115,
+    "lng": -78.54291724,
+    "address": "407 E Church St Benson, NC 27506",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Pleasant Grove Missionary",
+    "lat": 35.78131741,
+    "lng": -78.35286463,
+    "address": "601 W 3rd St Wendell, NC 27591",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Ministerios Guerreros De JesuCristo International",
+    "lat": 36.01296136,
+    "lng": -78.89085738,
+    "address": "1800 N Roxboro St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Mineral Springs Improvement",
+    "lat": 35.0666732,
+    "lng": -79.76058037,
+    "address": "122 Railroad St Ellerbe, NC 28388",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Millbrook United Methodist",
+    "lat": 35.84988985,
+    "lng": -78.60642186,
+    "address": "1712 E Millbrook Rd Raleigh, NC 27609",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Livingstones Tabernacle",
+    "lat": 34.41343,
+    "lng": -77.65026207,
+    "address": "127 Sloop Point Loop Rd Hampstead, NC 28443",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christian Mission Center",
+    "lat": 35.34137948,
+    "lng": -79.40803526,
+    "address": "703 Monroe St Carthage, NC 28327",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Living Bread Holiness Church",
+    "lat": 35.12609884,
+    "lng": -77.0856067,
+    "address": "1116 Glenburnie Rd New Bern, NC 28561",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lincoln Park Holiness Church",
+    "lat": 35.77983957,
+    "lng": -78.61670735,
+    "address": "1504 New Bern Ave Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lighthouse Shining Ministries",
+    "lat": 34.09680101,
+    "lng": -77.89896387,
+    "address": "6622 Carolina Beach Rd Wilmington, NC 28412",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Lifeline Outreach - Henderson",
+    "lat": 36.3020079,
+    "lng": -78.40803842,
+    "address": "2014 Raleigh Rd Henderson, NC 27536",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Last Days Tabernacle",
+    "lat": 35.57724351,
+    "lng": -77.3947473,
+    "address": "504 C Dexter St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christian Faith Ministries",
+    "lat": 35.44291316,
+    "lng": -79.14513687,
+    "address": "3110 Cameron Dr Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Koinonia Christian Center",
+    "lat": 35.57372118,
+    "lng": -77.42069658,
+    "address": "1405 SW Greenville Blvd Greenville, NC 27835",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kenly Area Ministries",
+    "lat": 35.59570335,
+    "lng": -78.12427152,
+    "address": "212 W 2nd St Kenly, NC 27542",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Kairos Church Ministry",
+    "lat": 35.71540116,
+    "lng": -77.9218882,
+    "address": "1003 S Lodge St Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Joyful Hope Station",
+    "lat": 35.92923973,
+    "lng": -77.80306173,
+    "address": "1136 S Church St Rocky Mount, NC 27803",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Jones Grove Missionary Baptist Church",
+    "lat": 36.12894281,
+    "lng": -79.11995764,
+    "address": "2713 Coleman Loop Rd Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Jones County Community Hope",
+    "lat": 35.06674432,
+    "lng": -77.35701012,
+    "address": "432 1st Ave Trenton, NC 28585",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Jesus Is Justice Mission",
+    "lat": 34.91421493,
+    "lng": -79.75647332,
+    "address": "469 Mill Rd East Rockingham, NC 28379",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Inspirational House of Praise",
+    "lat": 34.24822,
+    "lng": -78.02761426,
+    "address": "1005 Village Rd Leland, NC 28451",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia De Dios Pentecostal",
+    "lat": 35.78049,
+    "lng": -78.5997,
+    "address": "2331 New Bern Ave Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Iglesia Bethel",
+    "lat": 34.9246108,
+    "lng": -78.33194189,
+    "address": "4191 Beulah Rd Clinton, NC 28328",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "House of Resurrection",
+    "lat": 36.10429322,
+    "lng": -77.70695014,
+    "address": "102 S King St Whitakers, NC 27891",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "House of Fordham",
+    "lat": 35.38753141,
+    "lng": -77.99116623,
+    "address": "500 N William St Goldsboro, NC 27530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Healing Transitions",
+    "lat": 35.76415215,
+    "lng": -78.65857108,
+    "address": "1251 Goode St Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Harnett Food Pantry",
+    "lat": 35.39337691,
+    "lng": -78.82500885,
+    "address": "413 W Old Rd Lillington, NC 27546",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hands for Humanity CDC",
+    "lat": 35.25684949,
+    "lng": -77.56650582,
+    "address": "1009 E Bright St Kinston, NC 28501",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Hand-ee",
+    "lat": 35.24965287,
+    "lng": -78.92890472,
+    "address": "12254 NC 210 S Spring Lake, NC 28390",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Grifton Mission Ministries",
+    "lat": 35.38720929,
+    "lng": -77.43512636,
+    "address": "6499 N Highland Blvd Grifton, NC 28530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Good Shepherd Center - Shelter",
+    "lat": 34.21872153,
+    "lng": -77.93666785,
+    "address": "811 Martin St Wilmington, NC 28403",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christian Faith Center",
+    "lat": 36.11714834,
+    "lng": -78.67670256,
+    "address": "101 Peachtree St Creedmoor, NC 27522",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Fuquay-Varina Emergency",
+    "lat": 35.58460085,
+    "lng": -78.80146425,
+    "address": "216 W Academy St Fuquay-Varina, NC 27526",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Freedom Family Foundation Inc",
+    "lat": 35.59082923,
+    "lng": -77.37508,
+    "address": "313 Clifton St, Suite B Greenville, NC 27585",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Fisher Memorial",
+    "lat": 35.98393634,
+    "lng": -78.89968012,
+    "address": "420 E Piedmont Ave Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Missionary Baptist Church",
+    "lat": 35.58657018,
+    "lng": -78.35244017,
+    "address": "40 Durant Rd Wilson's Mill, NC 27593",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Missionary",
+    "lat": 35.30841396,
+    "lng": -77.78770542,
+    "address": "201 N Caswell St LaGrange, NC 28551",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "First Calvary Baptist Church",
+    "lat": 35.991665,
+    "lng": -78.91937299,
+    "address": "1311 Morehead Ave Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Family Food Basket",
+    "lat": 35.74050953,
+    "lng": -78.06224963,
+    "address": "6321 Old Raleigh Rd Sims, NC 27880",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Building 323",
+    "lat": 35.75399517,
+    "lng": -78.25740036,
+    "address": "73 Wilder Rd Middlesex, NC 27557",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Facts of Life Church",
+    "lat": 34.33511884,
+    "lng": -78.70570042,
+    "address": "506 N Lee St Whiteville, NC 28472",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Emmanuel Community Unison Baptist Church",
+    "lat": 35.52866191,
+    "lng": -77.47837069,
+    "address": "3501 Speight Seed Farm Rd Winterville, NC 28590",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Edgerton Memorial UMC",
+    "lat": 35.53739716,
+    "lng": -78.28681146,
+    "address": "401 W Anderson St Selma, NC 27576",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Dorcas Ministries",
+    "lat": 35.7820453,
+    "lng": -78.79891833,
+    "address": "187 High House Rd Cary, NC 27511",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Divine Grace Fellowship",
+    "lat": 36.026755,
+    "lng": -78.86857396,
+    "address": "1500-A E Club Blvd Bldg 100 Durham, NC 27703",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Crabtree Valley Baptist Church",
+    "lat": 35.84050245,
+    "lng": -78.67329162,
+    "address": "4408 Lead Mine Rd Raleigh, NC 27622",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Covenant Life Church",
+    "lat": 35.77117049,
+    "lng": -78.79367445,
+    "address": "555 SW Maynard Rd Cary, NC 27511",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Concerned Citizens Of Tillery",
+    "lat": 36.26413364,
+    "lng": -77.47970451,
+    "address": "321 Community Center Rd Tillery, NC 27887",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Coastal Horizons- Open House Youth Shelter",
+    "lat": 34.19137069,
+    "lng": -77.93293095,
+    "address": "615 Shipyard Blvd Wilmington, NC 28412",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Church of Philadelphia",
+    "lat": 35.99538036,
+    "lng": -78.92029508,
+    "address": "1309 Jackson St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Church of God of Prophecy",
+    "lat": 35.78615314,
+    "lng": -78.70903877,
+    "address": "5005 Western Blvd Raleigh, NC 27606",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Church Community Services",
+    "lat": 34.7770243,
+    "lng": -79.46312079,
+    "address": "108 Gill St Laurinburg, NC 28352",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christians United Outreach Center of Lee County",
+    "lat": 35.45056554,
+    "lng": -79.14441795,
+    "address": "2885 Lee Ave Sanford, NC 27330",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christ Deliverance Tabernacle",
+    "lat": 35.72548866,
+    "lng": -77.90339135,
+    "address": "413 E Pender St Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "CEC of Saint Peter the Fisherman Inc",
+    "lat": 34.23603947,
+    "lng": -77.94416588,
+    "address": "411 Market St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "CEC of Saint Peter the Fisherman",
+    "lat": 34.20854,
+    "lng": -77.94637845,
+    "address": "314 S Carolina Ave Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Catholic Parish Outreach",
+    "lat": 35.80900615,
+    "lng": -78.60371957,
+    "address": "2013 N Raleigh Blvd Raleigh, NC 27604",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Catholic Charities - Durham Community Food Pantry",
+    "lat": 35.98948784,
+    "lng": -78.92789227,
+    "address": "2020 Chapel Hill Rd Ste 30 Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Catholic Charities",
+    "lat": 34.30775772,
+    "lng": -77.98232645,
+    "address": "4280 US Highway 421 N Suite 110 Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Capital Pentacostal Church",
+    "lat": 35.72114327,
+    "lng": -78.64040992,
+    "address": "1308 US-70 Garner, NC 27529",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Brunswick Family Assistance",
+    "lat": 34.03839017,
+    "lng": -78.24611723,
+    "address": "929 Old Ocean Hwy Bolivia, NC 28422",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bread Basket/Sanford Soup",
+    "lat": 35.4858451,
+    "lng": -79.1780148,
+    "address": "140 E Chisholm St Sanford, NC 27331",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Birchwood Learning Center",
+    "lat": 35.98128293,
+    "lng": -78.8468567,
+    "address": "416 Walton St Durham, NC 27703",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bell-Yeager",
+    "lat": 35.96373449,
+    "lng": -78.91773047,
+    "address": "128 E Cornwallis Rd Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Believers United for Progress",
+    "lat": 35.98089191,
+    "lng": -78.89967074,
+    "address": "1306 Fayetteville St Durham, NC 27707",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Avery's Chapel FWB Church",
+    "lat": 35.03812499,
+    "lng": -79.38775323,
+    "address": "902 Loop Rd Raeford, NC 28376",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Area Congregations in Ministry (ACIM)",
+    "lat": 36.32469658,
+    "lng": -78.61009752,
+    "address": "634 Roxboro Rd Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Apostolic Faith Church",
+    "lat": 35.91899533,
+    "lng": -77.80877216,
+    "address": "300 Cedar St Rocky Mount, NC 27803",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Anathoth House",
+    "lat": 36.32214647,
+    "lng": -78.41891662,
+    "address": "315 Dabney Dr Henderson, NC 27536",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "An Elegant Affair",
+    "lat": 35.9422,
+    "lng": -77.79496888,
+    "address": "101 S Tarboro St Ste 513 Rocky Mount, NC 27801",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Amity United Methodist Church",
+    "lat": 35.93465033,
+    "lng": -79.05478674,
+    "address": "825 N Estes Dr Chapel Hill, NC 27514",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Alston Chapel United Holy",
+    "lat": 35.70885305,
+    "lng": -79.22156616,
+    "address": "1832 Alston Chapel Rd Pittsboro, NC 27312",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Adelphia CDC Inc - Wesley Chapel",
+    "lat": 35.11469422,
+    "lng": -77.20869017,
+    "address": "1696 Tuscarora Rd New Bern, NC 28561",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Adelphia CDC Inc - Piney Grove AME Zion Church",
+    "lat": 34.89446893,
+    "lng": -76.78623504,
+    "address": "1430 Temples Point Rd Havelock, NC 28532",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "ACTS of Vance County - Food Distribution",
+    "lat": 36.32572803,
+    "lng": -78.40340573,
+    "address": "201 S William St Henderson, NC 27536",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Abundant Life Miracle Center",
+    "lat": 35.11913759,
+    "lng": -77.05896582,
+    "address": "1901 Garden St New Bern, NC 28560",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Abundant Life Ministries",
+    "lat": 35.95332505,
+    "lng": -77.79923523,
+    "address": "734 Falls Rd Rocky Mount, NC 27804",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Filling Station",
+    "lat": 35.00635985,
+    "lng": -77.2206518,
+    "address": "221 Main St Pollocksville, NC 28573",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Haven Church",
+    "lat": 35.31422886,
+    "lng": -78.70360763,
+    "address": "4900 Bunnlevle-Erwin Rd Erwin, NC 28339",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Help Center of Federal",
+    "lat": 34.03475347,
+    "lng": -77.89600237,
+    "address": "7 N 3rd St Carolina Beach, NC 28428",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Original Tabernacle of Prayer",
+    "lat": 35.36917,
+    "lng": -78.00179012,
+    "address": "1005 S John St Goldsboro, 27530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Point Care Center",
+    "lat": 35.76544146,
+    "lng": -78.75106596,
+    "address": "1503 Walnut St Cary, NC 27511",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "The Sister Isaac Center",
+    "lat": 34.23172781,
+    "lng": -77.94357051,
+    "address": "412 Ann St Wilmington, NC 28401",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Three In One Family Center",
+    "lat": 34.72486054,
+    "lng": -77.98915013,
+    "address": "5110 Hwy 117 S Wallace, NC 28365",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Union Mission, Inc",
+    "lat": 36.45049675,
+    "lng": -77.65968157,
+    "address": "1310 Roanoke Ave Roanoke Rapids, NC 27870",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Union Mission, Inc",
+    "lat": 36.45049675,
+    "lng": -77.65968157,
+    "address": "1310 Roanoke Ave Roanoke Rapids, NC 27870",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "United Community Ministries",
+    "lat": 35.947291,
+    "lng": -77.797494,
+    "address": "341 McDonald St Rocky Mount, NC 27802",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "United Community Ministries",
+    "lat": 35.9473,
+    "lng": -77.7975,
+    "address": "341 McDonald St Rocky Mount, NC 27802",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Upon This Rock Ministry",
+    "lat": 36.32979504,
+    "lng": -78.59217961,
+    "address": "1206 College St Oxford, NC 27565",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Urban Ministries of Wake County",
+    "lat": 35.79996711,
+    "lng": -78.63431491,
+    "address": "1390 Capital Blvd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Vanceboro Christian Help Center",
+    "lat": 35.2985897,
+    "lng": -77.1521996,
+    "address": "411 White St Vanceboro, NC 28586",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Victory Independent",
+    "lat": 33.9412652,
+    "lng": -78.2510535,
+    "address": "516 Varnamtown Rd Supply, NC 28462",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wake Chapel Church",
+    "lat": 35.82867,
+    "lng": -78.5218096,
+    "address": "3805 Tarheel Club Rd Raleigh, NC 27604",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wilson County Interfaith",
+    "lat": 35.72774397,
+    "lng": -77.90725617,
+    "address": "309 Goldsboro St Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wilson County Interfaith - Hope Station",
+    "lat": 35.72767,
+    "lng": -77.907,
+    "address": "309 Goldsboro St Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "With Love From Jesus Ministry",
+    "lat": 35.73442842,
+    "lng": -78.65342895,
+    "address": "421 Chapanoke Rd Raleigh, NC 27603",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Word of Faith Ministries Food",
+    "lat": 35.01070187,
+    "lng": -77.89388763,
+    "address": "1288 NC Hwy 11 903 N Kenansville, NC 28349",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Wrightsboro United Methodist",
+    "lat": 34.28893015,
+    "lng": -77.91351819,
+    "address": "3300 N Kerr Ave Wilmington, NC 28405",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Zebulon United Methodist",
+    "lat": 35.82310107,
+    "lng": -78.31430418,
+    "address": "114 W Sycamore St Zebulon, NC 27597",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christian Assembly Emergency",
+    "lat": 36.09235111,
+    "lng": -78.91016245,
+    "address": "5516 N Roxboro Rd Durham, NC 27713",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Christ Community United",
+    "lat": 35.64665246,
+    "lng": -78.49112999,
+    "address": "1082 Amelia Church Rd Clayton, NC 27520",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Cedar Grove Mount Zion AME Church",
+    "lat": 36.16931428,
+    "lng": -79.13247039,
+    "address": "5124 NC HIGHWAY 86 N Hillsborough, NC 27278",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Carthage United Methodist",
+    "lat": 35.33956811,
+    "lng": -79.40705969,
+    "address": "108 Bruce St Carthage, NC 28327",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Carr Methodist Church",
+    "lat": 36.21403,
+    "lng": -79.21911186,
+    "address": "8200 NC 49 North Cedar Grove, NC 27231",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Calvary Baptist Church",
+    "lat": 34.69342089,
+    "lng": -76.54961844,
+    "address": "1219 Island Rd Harkers Island, NC 28531",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "By Faith Church",
+    "lat": 35.64762547,
+    "lng": -77.87871755,
+    "address": "4667 Evansdale Rd Wilson, NC 27893",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Brunswick Islands Baptist Church",
+    "lat": 33.9524656,
+    "lng": -78.30925233,
+    "address": "1672 Mt Pisgah Rd Supply, NC 28462",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bountiful Blessings House of Redemption",
+    "lat": 35.47905,
+    "lng": -77.75263579,
+    "address": "1432 Fort Run Rd Snow Hill, NC 28580",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bonlee Baptist Church",
+    "lat": 35.64602905,
+    "lng": -79.41987822,
+    "address": "25 Al Davis Rd Bear Creek, NC 27213",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Churches Outreach Network",
+    "lat": 35.71135605,
+    "lng": -77.24121841,
+    "address": "2921 Briery Swamp Rd Stokes, NC 27884",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bread for Life",
+    "lat": 34.2441764,
+    "lng": -77.8884381,
+    "address": "108 N Kerr Ave Suite K1 Wilmington, NC 28405",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Blue Angel Outreach",
+    "lat": 35.17406,
+    "lng": -79.46976848,
+    "address": "5 American Legion Ln Pinehurst, NC 28374",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Comunidad Cristiana Hosanna",
+    "lat": 35.74077733,
+    "lng": -78.6376299,
+    "address": "204 Shelden Dr Raleigh, NC 27610",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Compass Christian Church",
+    "lat": 35.63012569,
+    "lng": -78.71976643,
+    "address": "5309 Umstead Rd Fuquay-Varina, NC 27526",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Churches Outreach Network",
+    "lat": 35.31103806,
+    "lng": -77.79119792,
+    "address": "306 W King St La Grange, NC 28551",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Churches Outreach Network",
+    "lat": 35.60161465,
+    "lng": -77.37574896,
+    "address": "101 W 14th St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Celebration Church",
+    "lat": 35.89784389,
+    "lng": -78.55788757,
+    "address": "8700 Capital Blvd. Raleigh, NC 27616",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Calvary UMC",
+    "lat": 36.005327,
+    "lng": -78.89127173,
+    "address": "304 E Trinity St Durham, NC 27701",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Brookston Baptist Church",
+    "lat": 36.36598211,
+    "lng": -78.34494096,
+    "address": "242 Baptist Church Rd Henderson, NC 27537",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bridges of Hope Outreach Ministry",
+    "lat": 36.10931,
+    "lng": -78.45843302,
+    "address": "304 Main Saint Franklinton, NC 27525",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bread of Life",
+    "lat": 35.3723253,
+    "lng": -77.42734091,
+    "address": "609 Cannon Blvd Grifton, NC 28530",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Bogue Community Citizens",
+    "lat": 34.31216244,
+    "lng": -78.60798101,
+    "address": "1036 Jockey Rd Hallsboro, NC 28442",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Churches Outreach Network",
+    "lat": 35.60857401,
+    "lng": -77.39238486,
+    "address": "1610 W 10th St Greenville, NC 27834",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Community Health Coalition",
+    "lat": 36.03934261,
+    "lng": -78.90327445,
+    "address": "308 Crutchfield St Durham, NC 27704",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Community of Hope Center",
+    "lat": 36.18207,
+    "lng": -77.6674557,
+    "address": "201 Batchelor Avenue Enfield, NC 27823",
+    "phone": "",
+    "category": "food_bank"
+  },
+  {
+    "name": "Community of Hope Ministries",
+    "lat": 35.70327779,
+    "lng": -78.61389696,
+    "address": "601 St Mary's St Garner, NC 27529",
+    "phone": "",
+    "category": "food_bank"
+  }
+]

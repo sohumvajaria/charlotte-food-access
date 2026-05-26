@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en" class="page-explorer">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Explorer — Provide</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://unpkg.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="page-explorer">
+
+  <div id="app">
+
+    <aside id="sidebar">
+      <div id="sidebar-header">
+        <a href="index.html" class="sidebar-home-link">
+          <svg class="sidebar-sprout nav-sprout" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path class="nav-beanstalk-soil" d="M8.5 27.6Q16 26.4 23.5 27.6"/>
+            <path class="nav-beanstalk-stem" d="M16 27.4C15.1 23.2 14.6 18.8 15.6 14.4C16.6 10.2 16.1 6.2 14.8 3.4"/>
+            <path class="nav-beanstalk-vine" d="M16.3 27.2C18.8 24.2 20.2 19.6 18.6 15.2C17 10.6 14.4 7.2 12.2 4.2"/>
+            <ellipse class="nav-beanstalk-bean" cx="15.4" cy="19.2" rx="1.15" ry="1.65" transform="rotate(-12 15.4 19.2)"/>
+            <ellipse class="nav-beanstalk-bean" cx="16.8" cy="12.4" rx="1" ry="1.45" transform="rotate(8 16.8 12.4)"/>
+            <path class="nav-beanstalk-leaf" d="M15.7 21.4C11.4 20.9 9.4 18 10.8 15.4C12.6 17.1 14.4 19.6 15.7 21.4Z"/>
+            <path class="nav-beanstalk-leaf" d="M16.3 21.2C20.6 20.6 22.6 17.6 21 15.2C19.3 16.8 17.5 19.4 16.3 21.2Z"/>
+            <path class="nav-beanstalk-leaf" d="M15.4 14.6C10.6 14 8.8 10.8 10.4 8.2C12.2 10.2 14.1 13 15.4 14.6Z"/>
+            <path class="nav-beanstalk-leaf" d="M16.2 14.4C21 13.6 23 10.2 21.2 7.6C19.4 9.4 17.6 12.2 16.2 14.4Z"/>
+            <path class="nav-beanstalk-leaf" d="M15.1 9.8C12.8 9.4 11.6 7.2 12.6 5.6C13.6 7 14.6 8.6 15.1 9.8Z"/>
+            <path class="nav-beanstalk-tendril" d="M14.8 3.4C12.2 1.6 9.6 3.4 10.4 6C11.2 8.2 13.6 7.6 14.6 5.6"/>
+            <path class="nav-beanstalk-tendril" d="M14.6 5.6C15.8 4.2 17.4 4.8 17.2 6.4"/>
+          </svg>
+          <div id="logo-text">
+            <span class="logo-title">Provide</span>
+            <span class="logo-sub">Food Access</span>
+          </div>
+        </a>
+      </div>
+
+      <div id="search-section">
+        <label class="field-label" for="zip-input">ZIP CODE</label>
+        <div id="zip-row">
+          <input id="zip-input" type="text" maxlength="5" placeholder="e.g. 28202" />
+          <button id="search-btn" type="button">Find</button>
+        </div>
+        <p id="search-status" class="search-status" role="status" aria-live="polite" hidden></p>
+        <div id="radius-row">
+          <label class="field-label">RADIUS</label>
+          <div id="radius-options">
+            <button class="radius-btn active" type="button" data-miles="2">2 mi</button>
+            <button class="radius-btn" type="button" data-miles="5">5 mi</button>
+            <button class="radius-btn" type="button" data-miles="10">10 mi</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="filter-section">
+        <label class="field-label">SHOW</label>
+        <div id="filters">
+          <label class="filter-item">
+            <input type="checkbox" class="filter-cb" data-type="snap" checked />
+            <span class="filter-dot snap-dot"></span>
+            SNAP Retailers
+          </label>
+          <label class="filter-item filter-item-snap-sub">
+            <input type="checkbox" id="snap-grocery-only" />
+            <span>Grocery stores only</span>
+          </label>
+          <label class="filter-item">
+            <input type="checkbox" class="filter-cb" data-type="foodbank" checked />
+            <span class="filter-dot foodbank-dot"></span>
+            Food Pantries
+          </label>
+          <label class="filter-item">
+            <input type="checkbox" class="filter-cb" data-type="meal-all" checked />
+            <span class="filter-dot meal-all-dot"></span>
+            Free Meals (all ages)
+          </label>
+          <label class="filter-item">
+            <input type="checkbox" class="filter-cb" data-type="meal-under18" checked />
+            <span class="filter-dot meal-under18-dot"></span>
+            Free Meals (under 18)
+          </label>
+          <label class="filter-item">
+            <input type="checkbox" class="filter-cb" data-type="wic" checked />
+            <span class="filter-dot wic-dot"></span>
+            WIC Locations
+          </label>
+        </div>
+      </div>
+
+      <section id="scarcity-section" class="scarcity-section" aria-labelledby="scarcity-heading">
+        <h2 id="scarcity-heading" class="field-label">Map layer</h2>
+
+        <label class="scarcity-toggle">
+          <input type="checkbox" id="food-desert-toggle" class="scarcity-toggle-input" />
+          <span class="food-desert-label scarcity-toggle-title">Food Scarcity Tracker</span>
+          <span class="scarcity-badge">USDA</span>
+        </label>
+
+        <p class="scarcity-desc">
+          Census tract gradient for residents with low food access
+        </p>
+
+        <div id="food-desert-legend" class="scarcity-legend hidden" hidden>
+          <p class="scarcity-legend-heading">Low food access share</p>
+          <ul class="scarcity-legend-list">
+            <li class="scarcity-legend-item">
+              <span class="scarcity-swatch scarcity-swatch--severe" aria-hidden="true"></span>
+              <span>Severe — 70%+</span>
+            </li>
+            <li class="scarcity-legend-item">
+              <span class="scarcity-swatch scarcity-swatch--high" aria-hidden="true"></span>
+              <span>High — 50–70%</span>
+            </li>
+            <li class="scarcity-legend-item">
+              <span class="scarcity-swatch scarcity-swatch--moderate" aria-hidden="true"></span>
+              <span>Moderate — 30–50%</span>
+            </li>
+            <li class="scarcity-legend-item">
+              <span class="scarcity-swatch scarcity-swatch--low" aria-hidden="true"></span>
+              <span>Low — 15–30%</span>
+            </li>
+            <li class="scarcity-legend-item">
+              <span class="scarcity-swatch scarcity-swatch--minimal" aria-hidden="true"></span>
+              <span>Minimal — under 15%</span>
+            </li>
+          </ul>
+          <p class="scarcity-source">
+            USDA Food Access Research Atlas 2019 ·
+            <a href="https://www.ers.usda.gov/data-products/food-access-research-atlas/"
+               target="_blank"
+               rel="noopener noreferrer">Learn more</a>
+          </p>
+        </div>
+
+        <div class="overlay-toggle-row" id="transit-toggle-row">
+          <label class="scarcity-toggle toggle-label" for="transit-toggle">
+            <input type="checkbox" id="transit-toggle" class="scarcity-toggle-input" />
+            <span class="toggle-text scarcity-toggle-title">NC bus routes</span>
+            <span id="transit-loading" style="display:none;" class="toggle-loading">Loading…</span>
+            <span id="transit-error" style="display:none;" class="toggle-error">Failed to load</span>
+          </label>
+          <p class="scarcity-desc overlay-note">Loads on first use · stop markers appear at zoom 13+</p>
+        </div>
+      </section>
+
+      <div id="results-section">
+        <div id="results-header">
+          <div class="results-header-top">
+            <span class="field-label">Results</span>
+            <span id="results-count">—</span>
+          </div>
+          <div class="results-utility-btns">
+            <button type="button" id="copy-link-btn" class="copy-link-btn" style="display:none">
+              Copy link
+            </button>
+            <button type="button" id="print-btn" class="copy-link-btn" style="display:none">
+              Print list
+            </button>
+          </div>
+        </div>
+        <div id="results-list">
+          <div id="results-placeholder">
+            <p>Enter a ZIP code to find food resources near you.</p>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <div id="map-container">
+      <div id="map"></div>
+
+      <div id="detail-panel" class="hidden">
+        <button id="detail-close" type="button" aria-label="Close details">&times;</button>
+        <div id="detail-type-badge"></div>
+        <h2 id="detail-name"></h2>
+        <p id="detail-address"></p>
+        <div id="detail-meta"></div>
+        <div id="detail-actions"></div>
+      </div>
+
+      <div id="loading-overlay" class="hidden">
+        <div id="loading-inner">
+          <div id="loading-spinner"></div>
+          <p id="loading-text">Finding resources...</p>
+        </div>
+      </div>
+
+      <div id="stats-bar" class="hidden">
+        <div class="stat-item" id="stat-snap">
+          <span class="stat-num">0</span>
+          <span class="stat-label">SNAP</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item" id="stat-foodbank">
+          <span class="stat-num">0</span>
+          <span class="stat-label">Food Pantries</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item" id="stat-meal-all">
+          <span class="stat-num">0</span>
+          <span class="stat-label">Meals (all)</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item" id="stat-meal-under18">
+          <span class="stat-num">0</span>
+          <span class="stat-label">Meals (u18)</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item" id="stat-wic">
+          <span class="stat-num">0</span>
+          <span class="stat-label">WIC</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script defer src="data-sources.js"></script>
+  <script defer src="app.js"></script>
+</body>
+</html>

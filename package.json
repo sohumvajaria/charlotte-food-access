@@ -1,0 +1,34 @@
+{
+  "name": "provide",
+  "version": "1.0.0",
+  "description": "A web app that maps food resources in Charlotte, NC by ZIP code. **Provide** opens with a landing page (`index.html`) and interactive US map; the ZIP search tool lives on `explorer.html`.",
+  "main": "app.js",
+  "scripts": {
+    "parse-wic": "node scripts/parse-wic.mjs",
+    "retry-wic-geocode": "node scripts/retry-wic-geocode.mjs",
+    "refresh-food-sources": "node scripts/refresh-food-sources.mjs",
+    "test-charlotte-food": "node scripts/test-charlotte-food.mjs",
+    "prepare-food-desert": "node scripts/prepare-food-desert.mjs",
+    "refresh-gtfs": "node scripts/refresh-gtfs.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohumvajaria/charlotte-food-access.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sohumvajaria/charlotte-food-access/issues"
+  },
+  "homepage": "https://github.com/sohumvajaria/charlotte-food-access#readme",
+  "dependencies": {
+    "@mapbox/geojson-rewind": "^0.5.2",
+    "adm-zip": "^0.5.17",
+    "csv-parse": "^6.2.1",
+    "pdfjs-dist": "^5.6.205",
+    "shapefile": "^0.6.6",
+    "xlsx": "^0.18.5"
+  }
+}

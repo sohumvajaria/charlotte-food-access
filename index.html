@@ -3,135 +3,299 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Charlotte Food Access</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <title>Provide — Food Access Map</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+  <link rel="preload" href="https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/allura/Allura-Regular.ttf" as="font" type="font/ttf" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Allura&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body class="page-home">
 
-  <div id="app">
+  <section id="hero" aria-label="Provide home">
+    <nav id="hero-nav">
+      <a href="index.html" class="nav-logo">
+        <svg class="nav-sprout" width="26" height="26" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path class="nav-beanstalk-soil" d="M8.5 27.6Q16 26.4 23.5 27.6"/>
+          <path class="nav-beanstalk-stem" d="M16 27.4C15.1 23.2 14.6 18.8 15.6 14.4C16.6 10.2 16.1 6.2 14.8 3.4"/>
+          <path class="nav-beanstalk-vine" d="M16.3 27.2C18.8 24.2 20.2 19.6 18.6 15.2C17 10.6 14.4 7.2 12.2 4.2"/>
+          <ellipse class="nav-beanstalk-bean" cx="15.4" cy="19.2" rx="1.15" ry="1.65" transform="rotate(-12 15.4 19.2)"/>
+          <ellipse class="nav-beanstalk-bean" cx="16.8" cy="12.4" rx="1" ry="1.45" transform="rotate(8 16.8 12.4)"/>
+          <path class="nav-beanstalk-leaf" d="M15.7 21.4C11.4 20.9 9.4 18 10.8 15.4C12.6 17.1 14.4 19.6 15.7 21.4Z"/>
+          <path class="nav-beanstalk-leaf" d="M16.3 21.2C20.6 20.6 22.6 17.6 21 15.2C19.3 16.8 17.5 19.4 16.3 21.2Z"/>
+          <path class="nav-beanstalk-leaf" d="M15.4 14.6C10.6 14 8.8 10.8 10.4 8.2C12.2 10.2 14.1 13 15.4 14.6Z"/>
+          <path class="nav-beanstalk-leaf" d="M16.2 14.4C21 13.6 23 10.2 21.2 7.6C19.4 9.4 17.6 12.2 16.2 14.4Z"/>
+          <path class="nav-beanstalk-leaf" d="M15.1 9.8C12.8 9.4 11.6 7.2 12.6 5.6C13.6 7 14.6 8.6 15.1 9.8Z"/>
+          <path class="nav-beanstalk-tendril" d="M14.8 3.4C12.2 1.6 9.6 3.4 10.4 6C11.2 8.2 13.6 7.6 14.6 5.6"/>
+          <path class="nav-beanstalk-tendril" d="M14.6 5.6C15.8 4.2 17.4 4.8 17.2 6.4"/>
+        </svg>
+        <span class="nav-logo-text">Provide</span>
+      </a>
+      <div class="nav-actions">
+        <a href="index.html#hero" class="nav-link">Home</a>
+        <a href="explorer.html" class="nav-btn">Explorer</a>
+      </div>
+    </nav>
 
-    <!-- Sidebar -->
-    <aside id="sidebar">
-      <div id="sidebar-header">
-        <div id="logo-mark">&#9632;</div>
-        <div id="logo-text">
-          <span class="logo-title">Charlotte</span>
-          <span class="logo-sub">Food Access</span>
-        </div>
+    <div id="hero-inner">
+      <div id="hero-copy">
+        <p class="hero-status" data-reveal>
+          <span class="status-dot" aria-hidden="true"></span>
+          PROVIDE · v1 · Food access, mapped
+        </p>
+        <h1
+          id="hero-title"
+          class="hero-title cursive-text is-loading"
+          data-cursive-text="Provide"
+          data-draw-on="load"
+          data-font-size="128"
+          aria-label="Provide"
+        >
+          <span class="cursive-fallback">Provide</span>
+          <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+            <g class="cursive-glyphs"></g>
+          </svg>
+        </h1>
+        <p
+          class="hero-subtitle"
+          data-reveal
+          data-reveal-delay="1"
+          data-typewriter
+          data-typewriter-delay="0"
+        >
+          Communities deserve to know what’s nearby. Find SNAP retailers, food pantries, free meals, and WIC -> started in Charlotte, expanding nationwide.
+        </p>
+        <a href="explorer.html" class="hero-cta" data-reveal data-reveal-delay="2">Explore the dashboard →</a>
       </div>
 
-      <div id="search-section">
-        <label class="field-label">ZIP CODE</label>
-        <div id="zip-row">
-          <input id="zip-input" type="text" maxlength="5" placeholder="e.g. 28202" />
-          <button id="search-btn">Find</button>
-        </div>
-        <div id="radius-row">
-          <label class="field-label">RADIUS</label>
-          <div id="radius-options">
-            <button class="radius-btn active" data-miles="2">2 mi</button>
-            <button class="radius-btn" data-miles="5">5 mi</button>
-            <button class="radius-btn" data-miles="10">10 mi</button>
-          </div>
-        </div>
-      </div>
-
-      <div id="filter-section">
-        <label class="field-label">SHOW</label>
-        <div id="filters">
-          <label class="filter-item">
-            <input type="checkbox" class="filter-cb" data-type="snap" checked />
-            <span class="filter-dot snap-dot"></span>
-            SNAP Retailers
-          </label>
-          <label class="filter-item">
-            <input type="checkbox" class="filter-cb" data-type="foodbank" checked />
-            <span class="filter-dot foodbank-dot"></span>
-            Food Banks
-          </label>
-          <label class="filter-item">
-            <input type="checkbox" class="filter-cb" data-type="meal" checked />
-            <span class="filter-dot meal-dot"></span>
-            Free Meals
-          </label>
-          <label class="filter-item">
-            <input type="checkbox" class="filter-cb" data-type="wic" checked />
-            <span class="filter-dot wic-dot"></span>
-            WIC Locations
-          </label>
-        </div>
-      </div>
-
-      <div id="results-section">
-        <div id="results-header">
-          <span class="field-label">RESULTS</span>
-          <span id="results-count">—</span>
-        </div>
-        <div id="results-list">
-          <div id="results-placeholder">
-            <p>Enter a ZIP code to find food resources near you.</p>
-          </div>
-        </div>
-      </div>
-
-      <div id="sidebar-footer">
-        <p>Data: USDA FNS &middot; Feeding America &middot; CMS &middot; OSM</p>
-        <p>Built for Rep. Alma Adams &middot; NC-12</p>
-      </div>
-    </aside>
-
-    <!-- Map -->
-    <div id="map-container">
-      <div id="map"></div>
-
-      <!-- Detail Panel -->
-      <div id="detail-panel" class="hidden">
-        <button id="detail-close">&times;</button>
-        <div id="detail-type-badge"></div>
-        <h2 id="detail-name"></h2>
-        <p id="detail-address"></p>
-        <div id="detail-meta"></div>
-        <div id="detail-actions"></div>
-      </div>
-
-      <!-- Loading overlay -->
-      <div id="loading-overlay" class="hidden">
-        <div id="loading-inner">
-          <div id="loading-spinner"></div>
-          <p id="loading-text">Finding resources...</p>
-        </div>
-      </div>
-
-      <!-- Stats bar -->
-      <div id="stats-bar" class="hidden">
-        <div class="stat-item" id="stat-snap">
-          <span class="stat-num">0</span>
-          <span class="stat-label">SNAP</span>
-        </div>
-        <div class="stat-divider"></div>
-        <div class="stat-item" id="stat-foodbank">
-          <span class="stat-num">0</span>
-          <span class="stat-label">Food Banks</span>
-        </div>
-        <div class="stat-divider"></div>
-        <div class="stat-item" id="stat-meal">
-          <span class="stat-num">0</span>
-          <span class="stat-label">Free Meals</span>
-        </div>
-        <div class="stat-divider"></div>
-        <div class="stat-item" id="stat-wic">
-          <span class="stat-num">0</span>
-          <span class="stat-label">WIC</span>
-        </div>
+      <div id="hero-map-wrap" data-reveal data-reveal-delay="1" data-motion-group>
+        <div id="hero-map" aria-live="polite"></div>
+        <div class="hero-map-glow" aria-hidden="true"></div>
       </div>
     </div>
 
+    <a href="#stats" class="hero-scroll" aria-label="Scroll to statistics">
+      <span class="hero-scroll-line"></span>
+      <span class="hero-scroll-label">SCROLL</span>
+    </a>
+  </section>
+
+  <div class="food-divider" data-reveal aria-hidden="true">
+    <img src="food-divider.svg" alt="" class="food-divider-img" width="1200" height="96" decoding="async" />
   </div>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="app.js"></script>
+  <section id="stats" class="home-stats" data-cursive-section aria-label="Food access statistics">
+    <div class="home-stats-inner">
+      <button type="button" class="stat-card" data-tilt-card data-reveal data-reveal-delay="1" aria-label="41 million plus Americans use SNAP monthly">
+        <span class="stat-card-inner">
+          <span class="home-stat-value" aria-live="polite">
+            <span class="cursive-text cursive-text--stat is-loading" data-cursive-text="41M+" data-font-size="86" data-draw-ms="2400" data-cursive-delay="0">
+              <span class="cursive-fallback">41M+</span>
+              <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><g class="cursive-glyphs"></g></svg>
+            </span>
+          </span>
+          <span class="stat-card-caption">Americans who rely on SNAP each month to buy groceries</span>
+        </span>
+      </button>
+
+      <button type="button" class="stat-card" data-tilt-card data-reveal data-reveal-delay="2" aria-label="13.5 percent of households food insecure">
+        <span class="stat-card-inner">
+          <span class="home-stat-value" aria-live="polite">
+            <span class="cursive-text cursive-text--stat is-loading" data-cursive-text="13.5%" data-font-size="80" data-draw-ms="2400" data-cursive-delay="200">
+              <span class="cursive-fallback">13.5%</span>
+              <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><g class="cursive-glyphs"></g></svg>
+            </span>
+          </span>
+          <span class="stat-card-caption">of U.S. households were food insecure in 2023</span>
+        </span>
+      </button>
+
+      <button type="button" class="stat-card" data-tilt-card data-reveal data-reveal-delay="3" aria-label="23 million in low grocery access areas">
+        <span class="stat-card-inner">
+          <span class="home-stat-value" aria-live="polite">
+            <span class="cursive-text cursive-text--stat is-loading" data-cursive-text="23M" data-font-size="86" data-draw-ms="2400" data-cursive-delay="400">
+              <span class="cursive-fallback">23M</span>
+              <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><g class="cursive-glyphs"></g></svg>
+            </span>
+          </span>
+          <span class="stat-card-caption">people live in low-income areas with limited grocery access</span>
+        </span>
+      </button>
+    </div>
+    <p class="home-stats-source" data-reveal data-reveal-delay="2">Sources: USDA Economic Research Service · USDA FNS</p>
+  </section>
+
+  <div class="food-divider" data-reveal aria-hidden="true">
+    <img src="food-divider.svg" alt="" class="food-divider-img" width="1200" height="96" decoding="async" />
+  </div>
+
+  <section id="how-it-works" class="home-how" aria-labelledby="how-it-works-title">
+    <div class="home-how-inner">
+      <header class="home-how-header" data-reveal>
+        <p class="home-how-eyebrow">HOW PROVIDE WORKS</p>
+        <h2 id="how-it-works-title" class="home-how-title">
+          From ZIP code<br />to food on the table.
+        </h2>
+      </header>
+
+      <div class="home-how-grid">
+        <article class="home-how-step" data-reveal data-reveal-delay="1">
+          <div class="home-how-icon" aria-hidden="true">
+            <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="12" cy="12" r="7" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M17 17L24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M12 9V15M9 12H15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <p class="home-how-step-label">01 — Search</p>
+          <h3 class="home-how-step-title">ZIP Discovery</h3>
+          <p class="home-how-step-text" data-typewriter data-typewriter-delay="200">
+            Enter a ZIP code and we geocode your area, centering the map on your neighborhood so the search starts where you live.
+          </p>
+        </article>
+
+        <article class="home-how-step" data-reveal data-reveal-delay="2">
+          <div class="home-how-icon" aria-hidden="true">
+            <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 20L10 14L14 18L20 10L24 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="9" cy="9" r="2.5" stroke="currentColor" stroke-width="1.5"/>
+              <circle cx="19" cy="7" r="2.5" stroke="currentColor" stroke-width="1.5"/>
+              <rect x="3" y="3" width="22" height="22" rx="2" stroke="currentColor" stroke-width="1.5"/>
+            </svg>
+          </div>
+          <p class="home-how-step-label">02 — Explore</p>
+          <h3 class="home-how-step-title">Live Resource Map</h3>
+          <p class="home-how-step-text" data-typewriter data-typewriter-delay="350">
+            SNAP retailers, food pantries, free meal sites, and WIC locations appear on the map; filter by type and adjust radius to see what's nearby.
+          </p>
+        </article>
+
+        <article class="home-how-step" data-reveal data-reveal-delay="3">
+          <div class="home-how-icon" aria-hidden="true">
+            <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M6 22H22" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M8 18L14 8L20 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="14" cy="6" r="2" fill="currentColor"/>
+            </svg>
+          </div>
+          <p class="home-how-step-label">03 — Act</p>
+          <h3 class="home-how-step-title">Resources at Hand</h3>
+          <p class="home-how-step-text" data-typewriter data-typewriter-delay="500">
+            Compare distance, hours, and contact details for each location, then open directions or call directly from the dashboard.
+          </p>
+        </article>
+      </div>
+
+    </div>
+  </section>
+
+  <div class="food-divider" data-reveal aria-hidden="true">
+    <img src="food-divider.svg" alt="" class="food-divider-img" width="1200" height="96" decoding="async" />
+  </div>
+
+  <section id="map-preview" class="home-preview" aria-labelledby="map-preview-title">
+    <div class="home-preview-inner">
+      <header class="home-preview-header" data-reveal>
+        <p class="home-preview-eyebrow">LIVE PREVIEW</p>
+        <h2 id="map-preview-title" class="home-preview-title">
+          Every ZIP. Every site.<br />All in one view.
+        </h2>
+        <p class="home-preview-sub">
+          Charlotte-area resources · SNAP · Food pantries · Free meals · WIC
+        </p>
+      </header>
+      <div id="map-preview-mount" class="home-preview-mount" data-reveal data-reveal-delay="1" data-motion-group aria-label="Explorer map placeholder"></div>
+    </div>
+  </section>
+
+  <div class="food-divider" data-reveal aria-hidden="true">
+    <img src="food-divider.svg" alt="" class="food-divider-img" width="1200" height="96" decoding="async" />
+  </div>
+
+  <section id="reach" class="home-reach" data-cursive-section aria-label="Provide reach statistics">
+    <div class="home-reach-inner">
+      <p class="home-reach-eyebrow" data-reveal>FOOD ACCESS REACH</p>
+      <div class="home-reach-grid">
+        <button type="button" class="stat-card" data-tilt-card data-reveal data-reveal-delay="1" aria-label="42 plus verified Charlotte resources">
+          <span class="stat-card-inner">
+            <span class="home-reach-value" aria-live="polite">
+              <span class="cursive-text cursive-text--stat is-loading" data-cursive-text="42+" data-font-size="80" data-draw-ms="2000" data-cursive-delay="0">
+                <span class="cursive-fallback">42+</span>
+                <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><g class="cursive-glyphs"></g></svg>
+              </span>
+            </span>
+            <span class="stat-card-caption">Verified resources in the Charlotte pilot dataset</span>
+          </span>
+        </button>
+        <button type="button" class="stat-card" data-tilt-card data-reveal data-reveal-delay="2" aria-label="4 program types mapped">
+          <span class="stat-card-inner">
+            <span class="home-reach-value" aria-live="polite">
+              <span class="cursive-text cursive-text--stat is-loading" data-cursive-text="4" data-font-size="96" data-draw-ms="1600" data-cursive-delay="150">
+                <span class="cursive-fallback">4</span>
+                <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><g class="cursive-glyphs"></g></svg>
+              </span>
+            </span>
+            <span class="stat-card-caption">Program types mapped in the explorer</span>
+          </span>
+        </button>
+        <button type="button" class="stat-card" data-tilt-card data-reveal data-reveal-delay="3" aria-label="10 mile maximum search radius">
+          <span class="stat-card-inner">
+            <span class="home-reach-value" aria-live="polite">
+              <span class="cursive-text cursive-text--stat is-loading" data-cursive-text="10 mi" data-font-size="76" data-draw-ms="2200" data-cursive-delay="300">
+                <span class="cursive-fallback">10 mi</span>
+                <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" aria-hidden="true"><g class="cursive-glyphs"></g></svg>
+              </span>
+            </span>
+            <span class="stat-card-caption">Maximum search radius from any ZIP</span>
+          </span>
+        </button>
+      </div>
+      <div class="home-reach-ticker" data-reveal data-reveal-delay="1" data-motion-group aria-hidden="true">
+        <div class="home-reach-ticker-track">
+          <span>Charlotte, NC</span><span>28202</span><span>28206</span><span>28208</span><span>28205</span>
+          <span>Mecklenburg County</span><span>SNAP</span><span>WIC</span><span>Food pantries</span><span>Free meals</span>
+          <span>Charlotte, NC</span><span>28202</span><span>28206</span><span>28208</span><span>28205</span>
+          <span>Mecklenburg County</span><span>SNAP</span><span>WIC</span><span>Food pantries</span><span>Free meals</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="food-divider" data-reveal aria-hidden="true">
+    <img src="food-divider.svg" alt="" class="food-divider-img" width="1200" height="96" decoding="async" />
+  </div>
+
+  <section id="closing" class="home-closing" aria-label="Provide closing">
+    <div class="home-closing-inner">
+      <h2
+        id="closing-title"
+        class="hero-title hero-title--closing cursive-text is-loading"
+        data-cursive-text="Provide"
+        data-draw-on="scroll"
+        data-font-size="152"
+        aria-label="Provide"
+      >
+        <span class="cursive-fallback">Provide</span>
+        <svg class="cursive-svg" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <g class="cursive-glyphs"></g>
+        </svg>
+      </h2>
+      <p class="home-closing-tagline" data-reveal data-reveal-delay="1">Food access intelligence. Local today. Nationwide tomorrow.</p>
+      <a href="explorer.html" class="home-closing-cta" data-reveal data-reveal-delay="2">Explore the dashboard →</a>
+      <p class="home-closing-footer" data-reveal data-reveal-delay="3">Built for the People</p>
+    </div>
+  </section>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/opentype.js@1.3.4/dist/opentype.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+  <script defer src="smooth-motion.js"></script>
+  <script defer src="scroll-reveal.js"></script>
+  <script defer src="typewriter.js"></script>
+  <script defer src="cursive-text.js"></script>
+  <script defer src="hero-map.js"></script>
+  <script defer src="map-preview.js"></script>
+  <script defer src="stat-tilt.js"></script>
 </body>
 </html>

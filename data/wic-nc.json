@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "Pasquotank County Health Department",
+    "address": "711 Roanoke Ave., Elizabeth City, NC 27907",
+    "phone": "252-338-4400",
+    "category": "wic",
+    "lat": 36.2880341,
+    "lng": -76.2290684
+  },
+  {
+    "name": "Perquimans County Health Department",
+    "address": "103 ARPDC Street, Hertford, NC 27944",
+    "phone": "252-426-2100",
+    "category": "wic",
+    "lat": 36.1822576,
+    "lng": -76.4649464
+  },
+  {
+    "name": "Chowan County Health Department",
+    "address": "202 W Hicks St., Edenton, NC 27932",
+    "phone": "252-482-6003",
+    "category": "wic",
+    "lat": 36.0680321,
+    "lng": -76.6101516
+  },
+  {
+    "name": "Currituck County Health Department",
+    "address": "2795 Caratoke Hwy., Currituck, NC 27929",
+    "phone": "252-232-2271",
+    "category": "wic",
+    "lat": 36.453699,
+    "lng": -76.025738
+  },
+  {
+    "name": "Bertie County Health Department",
+    "address": "102 Rhodes Avenue, Windsor, NC 27983",
+    "phone": "252-794-5322",
+    "category": "wic",
+    "lat": 35.9891811,
+    "lng": -76.9300683
+  },
+  {
+    "name": "29 Medical Center Rd. - Gates County Health Department",
+    "address": "29 Medical Center Rd., Gates, NC 27937",
+    "phone": "252-357-1380",
+    "category": "wic",
+    "lat": 36.5043699,
+    "lng": -76.7321796
+  },
+  {
+    "name": "Hertford County Health Department",
+    "address": "828 S. Academy St., Ahoskie, NC 27910",
+    "phone": "252-357-4054",
+    "category": "wic",
+    "lat": 36.2885228,
+    "lng": -76.9904686
+  },
+  {
+    "name": "Anson County Health Department",
+    "address": "110 Ashe St., Wadesboro, NC 28170",
+    "phone": "704-694-5188",
+    "category": "wic",
+    "lat": 34.9615264,
+    "lng": -80.0800239
+  },
+  {
+    "name": "Watauga Health Center",
+    "address": "126 Poplar Grove Connector Rd., Boone, NC 28607",
+    "phone": "828-264-4995",
+    "category": "wic",
+    "lat": 36.2203949,
+    "lng": -81.691586
+  },
+  {
+    "name": "157 Health Services Rd. - Alleghany Health Center",
+    "address": "157 Health Services Rd., Sparta, NC 28675",
+    "phone": "336-246-9449",
+    "category": "wic",
+    "lat": 36.492408,
+    "lng": -81.1459123
+  },
+  {
+    "name": "Ashe Health Center",
+    "address": "413 McConnell St., Jefferson, NC 28640",
+    "phone": "336-246-9449",
+    "category": "wic",
+    "lat": 36.4170481,
+    "lng": -81.478701
+  },
+  {
+    "name": "Beaufort County Health Department",
+    "address": "1436 Highland Dr., Washington, NC 27889",
+    "phone": "252-946-9705",
+    "category": "wic",
+    "lat": 35.553646,
+    "lng": -77.030598
+  },
+  {
+    "name": "Hyde County Health Department",
+    "address": "1151 Main St., Swan Quarter, NC 27885",
+    "phone": "252-926-4399",
+    "category": "wic",
+    "lat": 35.4157228,
+    "lng": -76.3220379
+  },
+  {
+    "name": "Bladen County Health Department",
+    "address": "300 Mercer Mill Rd., Elizabethtown, NC 28337",
+    "phone": "910-862-6900",
+    "category": "wic",
+    "lat": 34.621322,
+    "lng": -78.605527
+  },
+  {
+    "name": "Brunswick County Health and Human Services - Leland",
+    "address": "1492 Village Rd. NE, Leland, NC 28451",
+    "phone": "910-253-2877",
+    "category": "wic",
+    "lat": 34.2560088,
+    "lng": -78.0464374
+  },
+  {
+    "name": "Buncombe County Health and Human Services   -   Asheville Coxe",
+    "address": "40 Coxe Ave., Asheville, NC 28801",
+    "phone": "828-250-5181",
+    "category": "wic",
+    "lat": 35.5932767,
+    "lng": -82.5549826
+  },
+  {
+    "name": "Buncombe County Health and Human Services - MAHEC OB/GYN",
+    "address": "119 Hendersonville Road, Asheville, NC 28803",
+    "phone": "828-771-5436",
+    "category": "wic",
+    "lat": 35.5606379,
+    "lng": -82.5429418
+  },
+  {
+    "name": "Cabarrus Health Alliance - Kannapolis",
+    "address": "300 Mooresville Rd., Kannapolis, NC 28081",
+    "phone": "704-920-1204",
+    "category": "wic",
+    "lat": 35.4992465,
+    "lng": -80.6309266
+  },
+  {
+    "name": "Carteret County Health Department",
+    "address": "3820 A Bridges St., Morehead City, NC 28557",
+    "phone": "252-728-8550",
+    "category": "wic",
+    "lat": 34.7240057,
+    "lng": -76.7346112
+  },
+  {
+    "name": "189 County Park Rd. - Caswell County",
+    "address": "189 County Park Rd., Yanceyville, NC 27379",
+    "phone": "336-694-4129",
+    "category": "wic",
+    "lat": 36.4066296,
+    "lng": -79.3339952
+  },
+  {
+    "name": "Catawba County Health Department",
+    "address": "3070 11th Ave. Dr. SE, Hickory, NC 28602",
+    "phone": "828-695-5800",
+    "category": "wic",
+    "lat": 35.7113013,
+    "lng": -81.2726326
+  },
+  {
+    "name": "Catawba County Health Department - St Stephens Library",
+    "address": "3225 Springs Rd NE, Hickory, NC 28601",
+    "phone": "828-695-5884",
+    "category": "wic",
+    "lat": 35.7590216,
+    "lng": -81.2733391
+  },
+  {
+    "name": "Cherokee County Health Department",
+    "address": "228 Hilton St., Murphy, NC 28906",
+    "phone": "828-837-7486",
+    "category": "wic",
+    "lat": 35.0912681,
+    "lng": -84.0323067
+  },
+  {
+    "name": "Cleveland County Health Department",
+    "address": "200 South Post Rd., Shelby, NC 28152",
+    "phone": "980-484-5100",
+    "category": "wic",
+    "lat": 35.2805434,
+    "lng": -81.4932733
+  },
+  {
+    "name": "Columbus County Health Department",
+    "address": "304 Jefferson St., Whiteville, NC 28472",
+    "phone": "910-641-3904",
+    "category": "wic",
+    "lat": 34.338072,
+    "lng": -78.6982759
+  },
+  {
+    "name": "CommWell Health Salemburg",
+    "address": "500 Fayetteville St., Salemburg, NC 28385",
+    "phone": "1-877-935-5255",
+    "category": "wic",
+    "lat": 35.0095101,
+    "lng": -78.5074824
+  },
+  {
+    "name": "Comm Well Health Four Oaks",
+    "address": "725 Boyette Road, Four Oaks, NC 27524",
+    "phone": "1-877-935-5255",
+    "category": "wic",
+    "lat": 35.4442709,
+    "lng": -78.41685
+  },
+  {
+    "name": "Craven County Health Department",
+    "address": "2818 Neuse Blvd., New Bern, NC 28561",
+    "phone": "252-636-4920",
+    "category": "wic",
+    "lat": 35.122785,
+    "lng": -77.083755
+  },
+  {
+    "name": "Cumberland County Public Health Center",
+    "address": "1235 Ramsey St., Fayetteville, NC 28301",
+    "phone": "910-433-3730",
+    "category": "wic",
+    "lat": 35.0738677,
+    "lng": -78.8820291
+  },
+  {
+    "name": "Cumberland County Public Health Center - Spring Lake",
+    "address": "103 Laketree Blvd., Spring Lake, NC 28390",
+    "phone": "910-321-6420",
+    "category": "wic",
+    "lat": 35.1822044,
+    "lng": -78.9864817
+  },
+  {
+    "name": "Cumberland County Public Health Center - Hope Mill",
+    "address": "2622 Hope Mills Rd., Hope Mills, NC 28306",
+    "phone": "910-433-3760",
+    "category": "wic",
+    "lat": 34.9987016,
+    "lng": -78.9675523
+  },
+  {
+    "name": "Dare County Health & Human Services",
+    "address": "109 Exeter St., Manteo, NC 27954",
+    "phone": "252-475-5068",
+    "category": "wic",
+    "lat": 35.903597,
+    "lng": -75.6745604
+  },
+  {
+    "name": "Dare County Health & Human Services - Kill Devil Hills Office",
+    "address": "2601 N Croatan Hwy, Kill Devil Hills, NC 27948",
+    "phone": "252-475-5748",
+    "category": "wic",
+    "lat": 36.0460243,
+    "lng": -75.6796773
+  },
+  {
+    "name": "Davidson County Health Department",
+    "address": "915 Greensboro St., Lexington, NC 27293",
+    "phone": "336-242-2300",
+    "category": "wic",
+    "lat": 35.8309544,
+    "lng": -80.2461149
+  },
+  {
+    "name": "Duplin County Health Department",
+    "address": "340 Seminary St., Kenansville, NC 28349",
+    "phone": "910-296-2130",
+    "category": "wic",
+    "lat": 34.9629114,
+    "lng": -77.966945
+  },
+  {
+    "name": "Edgecombe County Health Department - Edgecombe -Tarboro",
+    "address": "122 East Saint James St., Tarboro, NC 27886",
+    "phone": "252-641-7511",
+    "category": "wic",
+    "lat": 35.8980978,
+    "lng": -77.5340758
+  },
+  {
+    "name": "Edgecombe County Health Department - Edgecombe - Rocky Mount",
+    "address": "155 Atlantic Ave, Rocky Mount, NC 27801",
+    "phone": "252-985-1067",
+    "category": "wic",
+    "lat": 35.9419588,
+    "lng": -77.792496
+  },
+  {
+    "name": "Rutherford County Health Department",
+    "address": "221 Callahan Koon Rd., Spindale, NC 28160",
+    "phone": "828-287-6100",
+    "category": "wic",
+    "lat": 35.3520721,
+    "lng": -81.9109776
+  },
+  {
+    "name": "McDowell County Health Department",
+    "address": "408 Spaulding Rd., Marion, NC 28752",
+    "phone": "828-652-6811",
+    "category": "wic",
+    "lat": 35.6663671,
+    "lng": -82.0285991
+  },
+  {
+    "name": "Forsyth County Health Department",
+    "address": "799 N Highland Ave., Winston Salem, NC 27101",
+    "phone": "336-703-3336",
+    "category": "wic",
+    "lat": 36.104092,
+    "lng": -80.233131
+  },
+  {
+    "name": "Forsyth County Health Department - Martin Luther King Jr",
+    "address": "1200 Martin Luther King Jr Dr, Winston Salem, NC 27101",
+    "phone": "336-713-9702",
+    "category": "wic",
+    "lat": 36.1043432,
+    "lng": -80.2396783
+  },
+  {
+    "name": "Forsyth County Health Department - Peters Creek Parkway",
+    "address": "2101 Peters Creek Pkwy., Winston -Salem, NC 27127",
+    "phone": "336-703-3352",
+    "category": "wic",
+    "lat": 36.0701294,
+    "lng": -80.2582415
+  },
+  {
+    "name": "Franklin County Health Department",
+    "address": "107 Industrial Dr., Louisburg, NC 27549",
+    "phone": "919-496-6453",
+    "category": "wic",
+    "lat": 36.1043603,
+    "lng": -78.2894989
+  },
+  {
+    "name": "Gaston County Department of Health and Human Services   - Public Health",
+    "address": "991 W. Hudson Blvd., Gastonia, NC 28052",
+    "phone": "704-853-5000",
+    "category": "wic",
+    "lat": 35.2347447,
+    "lng": -81.2043883
+  },
+  {
+    "name": "Graham County- Robbinsville Department of Public Health",
+    "address": "191 P & J Rd., Robbinsville, NC 28771",
+    "phone": "828-479-7900",
+    "category": "wic",
+    "lat": 35.3033704,
+    "lng": -83.7918754
+  },
+  {
+    "name": "Vance County Health Department",
+    "address": "115 Charles Rollins Rd., Henderson, NC 27536",
+    "phone": "252-492-3147",
+    "category": "wic",
+    "lat": 36.3302933,
+    "lng": -78.4519526
+  },
+  {
+    "name": "Guilford County Department of Health and Human Services - Greensboro WIC",
+    "address": "1100 E Wendover Ave., Greensboro, NC 27405",
+    "phone": "336-641-3214",
+    "category": "wic",
+    "lat": 36.0873265,
+    "lng": -79.7714765
+  },
+  {
+    "name": "Guilford County Department of Health and Human Services - High Point WIC",
+    "address": "501 East Green Dr., High Point, NC 27260",
+    "phone": "336-641-7571",
+    "category": "wic",
+    "lat": 35.9542982,
+    "lng": -80.0000515
+  },
+  {
+    "name": "Guilford County Department of Health and Human Services - Roanoke Rapids",
+    "address": "116-A West 3rd St., Roanoke Rapids, NC 27870",
+    "phone": "252-535-4845",
+    "category": "wic",
+    "lat": 36.469913,
+    "lng": -77.6576108
+  },
+  {
+    "name": "Harnett County Health Department - Lillington",
+    "address": "307 W Cornelius Harnett Blvd., Lillington, NC 27546",
+    "phone": "910-893-7570",
+    "category": "wic",
+    "lat": 35.4194444,
+    "lng": -78.8065253
+  },
+  {
+    "name": "Hoke County Health Department",
+    "address": "683 East Palmer Rd., Raeford, NC 28376",
+    "phone": "910-875-3717",
+    "category": "wic",
+    "lat": 34.9670262,
+    "lng": -79.2283788
+  },
+  {
+    "name": "Iredell County Health Department",
+    "address": "318 Turnersburg Highway, Statesville, NC 28625",
+    "phone": "704-878-5300",
+    "category": "wic",
+    "lat": 35.8200288,
+    "lng": -80.8754735
+  },
+  {
+    "name": "610 E. Center Ave. - Government Center South",
+    "address": "610 E. Center Ave., Mooresville, NC 28115",
+    "phone": "704-664-4635",
+    "category": "wic",
+    "lat": 35.579686,
+    "lng": -80.803738
+  },
+  {
+    "name": "Jackson County Department of Public Health",
+    "address": "538 Scotts Creek Rd., Sylva, NC 28779",
+    "phone": "828-586-8994",
+    "category": "wic",
+    "lat": 35.3886956,
+    "lng": -83.2046967
+  },
+  {
+    "name": "Johnston County Health Department",
+    "address": "517 N Brightleaf Blvd., Smithfield, NC 27577",
+    "phone": "919-989-5255",
+    "category": "wic",
+    "lat": 35.5131824,
+    "lng": -78.333847
+  },
+  {
+    "name": "Johnston County Health Department - Clayton",
+    "address": "1008 South Lombard St., Clayton, NC 27520",
+    "phone": "919-989-5255",
+    "category": "wic",
+    "lat": 35.6436941,
+    "lng": -78.4673687
+  },
+  {
+    "name": "106 N. Center St. - Princeton",
+    "address": "106 N. Center St., Princeton, NC 27569",
+    "phone": "919-989-5255",
+    "category": "wic",
+    "lat": 35.4659099,
+    "lng": -78.1589821
+  },
+  {
+    "name": "Lee County Health Department",
+    "address": "106 Hillcrest Dr., Sanford, NC 27331",
+    "phone": "919-718-4640",
+    "category": "wic",
+    "lat": 35.4773172,
+    "lng": -79.1856267
+  },
+  {
+    "name": "Lenoir County Public Health Department",
+    "address": "201 North McLewean Street, Kinston, NC 28502",
+    "phone": "252-526-4300",
+    "category": "wic",
+    "lat": 35.261731,
+    "lng": -77.579305
+  },
+  {
+    "name": "Fayetteville Street Main Site   - Lincoln Community Health Center",
+    "address": "1301 Fayetteville St., Durham, NC 27707",
+    "phone": "919-956-4042",
+    "category": "wic",
+    "lat": 35.9855791,
+    "lng": -78.8976857
+  },
+  {
+    "name": "Main Street -   Suite B Durham County Department of Public Health",
+    "address": "414 E. Main Street, Durham, NC 27707",
+    "phone": "919-403-1339",
+    "category": "wic",
+    "lat": 35.9920063,
+    "lng": -78.8961868
+  },
+  {
+    "name": "Main Street   -   Suite A Durham County Department of Public Health - Seminary Ave.",
+    "address": "215 W Seminary Ave, Durham, NC 27701",
+    "phone": "919-403-1398",
+    "category": "wic",
+    "lat": 35.9989138,
+    "lng": -78.9003074
+  },
+  {
+    "name": "Macon County Public Health",
+    "address": "1830 Lakeside Dr., Franklin, NC 28734",
+    "phone": "828-349-2081",
+    "category": "wic",
+    "lat": 35.197033,
+    "lng": -83.372373
+  },
+  {
+    "name": "Madison County Health Department",
+    "address": "493 Medical Park Dr., Marshall, NC 28753",
+    "phone": "828-649-3531",
+    "category": "wic",
+    "lat": 35.8045824,
+    "lng": -82.6515786
+  },
+  {
+    "name": "Martin County Health Department",
+    "address": "210 West Liberty St., Williamston, NC 27892",
+    "phone": "252-793-1620",
+    "category": "wic",
+    "lat": 35.8601595,
+    "lng": -77.0616228
+  },
+  {
+    "name": "Tyrrell County Health Department",
+    "address": "408 Bridge St., Columbia, NC 27925",
+    "phone": "252-793-1751",
+    "category": "wic",
+    "lat": 35.9191416,
+    "lng": -76.2521927
+  },
+  {
+    "name": "Mecklenburg County Health Department - Beatties Ford Road",
+    "address": "2845 Beatties Ford Rd., Charlotte, NC 28216",
+    "phone": "704-336-6500",
+    "category": "wic",
+    "lat": 35.2739564,
+    "lng": -80.8556678
+  },
+  {
+    "name": "Mecklenburg County Health Department - Stitt Road",
+    "address": "430 Stitt Road, Charlotte, NC 28213",
+    "phone": "704-336-6500",
+    "category": "wic",
+    "lat": 35.2575951,
+    "lng": -80.7758572
+  },
+  {
+    "name": "Mecklenburg County Health Department - Freedom Drive",
+    "address": "3205 Freedom Dr., Charlotte, NC 28208",
+    "phone": "704-336-6500",
+    "category": "wic",
+    "lat": 35.2440829,
+    "lng": -80.8914698
+  },
+  {
+    "name": "Mecklenburg County Health Department - Billingsley Road",
+    "address": "249 Billingsley Rd, Charlotte, NC 28211",
+    "phone": "704-336-6500",
+    "category": "wic",
+    "lat": 35.190566,
+    "lng": -80.808183
+  },
+  {
+    "name": "Montgomery County Health Department",
+    "address": "217 South Main Street, Troy, NC 27371",
+    "phone": "910-572-1393",
+    "category": "wic",
+    "lat": 35.35699,
+    "lng": -79.8931797
+  },
+  {
+    "name": "Moore County Health Department",
+    "address": "705 Pinehurst Ave., Carthage, NC 28327",
+    "phone": "910-947-3300",
+    "category": "wic",
+    "lat": 35.3358231,
+    "lng": -79.4145157
+  },
+  {
+    "name": "Nash County Health Department",
+    "address": "214 South Barnes St., Nashville, NC 27856",
+    "phone": "252-459-9828",
+    "category": "wic",
+    "lat": 35.9739802,
+    "lng": -77.9701101
+  },
+  {
+    "name": "Nash County Health Department",
+    "address": "322 S Franklin St., Rocky Mount, NC 27804",
+    "phone": "252-446-6042",
+    "category": "wic",
+    "lat": 35.9402212,
+    "lng": -77.7998531
+  },
+  {
+    "name": "Nash County Health Department - Bailey Outreach Site",
+    "address": "6270 Main St., Bailey, NC 27807",
+    "phone": "252-459-9828",
+    "category": "wic",
+    "lat": 35.7791425,
+    "lng": -78.1158455
+  },
+  {
+    "name": "New Hanover County Health and Human Services",
+    "address": "1650 Greenfield Street, Wilmington, NC 28401",
+    "phone": "910-798-",
+    "category": "wic",
+    "lat": 34.2166379,
+    "lng": -77.9259767
+  },
+  {
+    "name": "Northampton County Health Department - Gaston Satellite Site",
+    "address": "223 Craige Street, Gaston, NC 27832",
+    "phone": "252-534-",
+    "category": "wic",
+    "lat": 36.4960034,
+    "lng": -77.6433128
+  },
+  {
+    "name": "Onslow County Consolidated Human Services Agency",
+    "address": "612 College Street, Jacksonville, NC 28540",
+    "phone": "910-347-2154",
+    "category": "wic",
+    "lat": 34.7487716,
+    "lng": -77.4256079
+  },
+  {
+    "name": "Pamlico County Health Department",
+    "address": "203 North St., Bayboro, NC 28515",
+    "phone": "252-745-",
+    "category": "wic",
+    "lat": 35.1438102,
+    "lng": -76.7705019
+  },
+  {
+    "name": "Pender County Health Department",
+    "address": "803 South Walker St., Burgaw, NC 28425",
+    "phone": "910-259-1230",
+    "category": "wic",
+    "lat": 34.544636,
+    "lng": -77.91632
+  },
+  {
+    "name": "Pender County Health Department, Hampstead Annex",
+    "address": "15000 Hwy 17, Hampstead, NC 28443",
+    "phone": "910-270-5001",
+    "category": "wic",
+    "lat": 34.3972384,
+    "lng": -77.6734041
+  },
+  {
+    "name": "Person County Health Dept.",
+    "address": "355 A South Madison Blvd., Roxboro, NC 27573",
+    "phone": "336-597-2204",
+    "category": "wic",
+    "lat": 36.3865766,
+    "lng": -78.9878371
+  },
+  {
+    "name": "Piedmont Health Services   - Carrboro",
+    "address": "301 Lloyd St., Carrboro, NC 27510",
+    "phone": "919-913-1698",
+    "category": "wic",
+    "lat": 35.9132835,
+    "lng": -79.0697266
+  },
+  {
+    "name": "Piedmont Health Services   - Prospect Hill",
+    "address": "322 Main St., Prospect Hill, NC 27314",
+    "phone": "336-562-2340",
+    "category": "wic",
+    "lat": 36.2490609,
+    "lng": -79.1847803
+  },
+  {
+    "name": "Piedmont Health Services   - Hillsborough",
+    "address": "300 West Tryon St., Hillsborough, NC 27278",
+    "phone": "919-245-2422",
+    "category": "wic",
+    "lat": 36.0772638,
+    "lng": -79.1054713
+  },
+  {
+    "name": "Piedmont Health Services   - Chapel Hill",
+    "address": "590 Manning Dr., Chapel Hill, NC 27599",
+    "phone": "919-685-6517",
+    "category": "wic",
+    "lat": 35.8992811,
+    "lng": -79.0373545
+  },
+  {
+    "name": "Piedmont Health Services   -   Siler City",
+    "address": "224 South 10th Ave., Siler City, NC 27344",
+    "phone": "919-742-5602",
+    "category": "wic",
+    "lat": 35.7244863,
+    "lng": -79.4485027
+  },
+  {
+    "name": "Pitt County Health Department",
+    "address": "201 Government Cir., Greenville, NC 27834",
+    "phone": "252-902-2300",
+    "category": "wic",
+    "lat": 35.6374022,
+    "lng": -77.3635429
+  },
+  {
+    "name": "ECU Health",
+    "address": "2100 Stantonsburg Rd., Greenville, NC 27835",
+    "phone": "252-847-4100",
+    "category": "wic",
+    "lat": 35.6075986,
+    "lng": -77.4029042
+  },
+  {
+    "name": "Randolph County Public Health - Randolph   - Asheboro",
+    "address": "1461 N Fayetteville St, Asheboro, NC 27203",
+    "phone": "336-318-6171",
+    "category": "wic",
+    "lat": 35.7348989,
+    "lng": -79.8084475
+  },
+  {
+    "name": "Randolph County Public Health - Randolph   -   Archdale",
+    "address": "215 Balfour Dr., Archdale, NC 27263",
+    "phone": "336-318-6171",
+    "category": "wic",
+    "lat": 35.9017739,
+    "lng": -79.9573709
+  },
+  {
+    "name": "Richmond County Health Department",
+    "address": "127 Caroline St., Rockingham, NC 28379",
+    "phone": "910-997-8300",
+    "category": "wic",
+    "lat": 34.940448,
+    "lng": -79.77649
+  },
+  {
+    "name": "Rowan County Health Department",
+    "address": "1811 East Innes St., Salisbury, NC 28146",
+    "phone": "704-216-8777",
+    "category": "wic",
+    "lat": 35.6480005,
+    "lng": -80.4555434
+  },
+  {
+    "name": "Scotland County Health Department",
+    "address": "1405 West Blvd., Laurinburg, NC 28352",
+    "phone": "910-277-",
+    "category": "wic",
+    "lat": 34.7597033,
+    "lng": -79.4910303
+  },
+  {
+    "name": "Surry County Health & Nutrition Center",
+    "address": "118 Hamby Rd., Dobson, NC 27017",
+    "phone": "336-401-8400",
+    "category": "wic",
+    "lat": 36.395367,
+    "lng": -80.7101034
+  },
+  {
+    "name": "545 Center St. - Swain County Health Department",
+    "address": "545 Center St., Bryson City, NC 28713",
+    "phone": "828-488-3198",
+    "category": "wic",
+    "lat": 35.4355041,
+    "lng": -83.4441152
+  },
+  {
+    "name": "Avery County Health Department",
+    "address": "545 Schultz Circle, Newland, NC 28657",
+    "phone": "828-733-6052",
+    "category": "wic",
+    "lat": 36.0853781,
+    "lng": -81.9260124
+  },
+  {
+    "name": "Union County Department of Human Services",
+    "address": "2330 Concord Ave., Monroe, NC 28110",
+    "phone": "704-296-4800",
+    "category": "wic",
+    "lat": 35.0122469,
+    "lng": -80.5448723
+  },
+  {
+    "name": "Wake County Health and Human Services - Wake- Sunnybrook Road",
+    "address": "10 Sunnybrook Rd., Raleigh, NC 27620",
+    "phone": "919-250-4720",
+    "category": "wic",
+    "lat": 35.7867982,
+    "lng": -78.5865223
+  },
+  {
+    "name": "Wake County Health and Human Services - Wake- Departure Drive",
+    "address": "5809 Departure Dr., Raleigh, NC 27616",
+    "phone": "919-250-4720",
+    "category": "wic",
+    "lat": 35.8627665,
+    "lng": -78.5907812
+  },
+  {
+    "name": "Wake-Zebulon Eastern Regional Center",
+    "address": "1002 Dogwood Dr., Zebulon, NC 27597",
+    "phone": "919-250-4720",
+    "category": "wic",
+    "lat": 35.8360957,
+    "lng": -78.3221663
+  },
+  {
+    "name": "Wake-Wake Forest Northern Regional Center",
+    "address": "350 East Holding Ave., Wake Forest, NC 27587",
+    "phone": "919-250-4720",
+    "category": "wic",
+    "lat": 35.9701769,
+    "lng": -78.510956
+  },
+  {
+    "name": "Warren County Health Department",
+    "address": "544 West Ridgeway St., Warrenton, NC 27589",
+    "phone": "252-257-1185",
+    "category": "wic",
+    "lat": 36.4061942,
+    "lng": -78.1638627
+  },
+  {
+    "name": "Wayne County Health Department",
+    "address": "809 Simmons St., Goldsboro, NC 27530",
+    "phone": "919-731-1276",
+    "category": "wic",
+    "lat": 35.3833528,
+    "lng": -77.9838594
+  },
+  {
+    "name": "Wayne County Health Department - Seymour Johnson AFB",
+    "address": "1330 Cannon Ave., Goldsboro, NC 27530",
+    "phone": "919-705-1779",
+    "category": "wic",
+    "lat": 35.351914,
+    "lng": -77.9628584
+  },
+  {
+    "name": "Wayne County Health Department - Mt. Olive",
+    "address": "108 N West Main St., Mount Olive, NC 28365",
+    "phone": "919-731-1680",
+    "category": "wic",
+    "lat": 35.1962664,
+    "lng": -78.0683347
+  },
+  {
+    "name": "Wilkes County Health Department",
+    "address": "1907 West Park Drive, North Wilkesboro, NC 28659",
+    "phone": "336-651-7451",
+    "category": "wic",
+    "lat": 36.1555285,
+    "lng": -81.1651207
+  },
+  {
+    "name": "Wilson County Health Department",
+    "address": "1801 Glendale Dr. Southwest, Wilson, NC 27893",
+    "phone": "252-237-3141",
+    "category": "wic",
+    "lat": 35.717115,
+    "lng": -77.945754
+  },
+  {
+    "name": "Yadkin County Human Services",
+    "address": "217 East Willow St., Yadkinville, NC 27055",
+    "phone": "336-849-7910",
+    "category": "wic",
+    "lat": 36.1323195,
+    "lng": -80.6557561
+  },
+  {
+    "name": "Yancey County Health Department",
+    "address": "202 Medical Campus Dr., Burnsville, NC 28714",
+    "phone": "828-682-6118",
+    "category": "wic",
+    "lat": 35.9160375,
+    "lng": -82.3330422
+  },
+  {
+    "name": "Beloved Women's and Children's Center - Snowbird Clinic -   Jacob Cornsilk Community Complex",
+    "address": "60 Snowbird Rd, Robbinsville, NC 28771",
+    "phone": "828-346-6993",
+    "category": "wic",
+    "lat": 35.318646,
+    "lng": -83.8125569
+  },
+  {
+    "name": "Alamance County Health Department",
+    "address": "319 N Graham Hopedale Rd., HSC, Suite B, Burlington, NC 27217",
+    "phone": "336-570-6745",
+    "category": "wic",
+    "lat": 36.0999965,
+    "lng": -79.4060509
+  },
+  {
+    "name": "Camden County Health Department",
+    "address": "160 US Hwy. 158, Building B, Camden, NC 27921",
+    "phone": "252-338-4460",
+    "category": "wic",
+    "lat": 36.316795389234,
+    "lng": -76.179128244765
+  },
+  {
+    "name": "Alexander County Health Department",
+    "address": "338 1st Ave. SW, Suite 1, Taylorsville, NC 28681",
+    "phone": "828-632-9704",
+    "category": "wic",
+    "lat": 35.919721601149,
+    "lng": -81.180288049045
+  },
+  {
+    "name": "Buncombe County Health and Human Services -   Asheville Leicester",
+    "address": "339 New Leicester Suite 120, Asheville, NC 28806",
+    "phone": "828-250-5000",
+    "category": "wic",
+    "lat": 35.600826944923,
+    "lng": -82.622802041921
+  },
+  {
+    "name": "Cabarrus Health Alliance - Concord",
+    "address": "280 Concord Pkwy. S, Suite 110 B, Concord, NC 28027",
+    "phone": "704-920-1204",
+    "category": "wic",
+    "lat": 35.39605387209,
+    "lng": -80.611463378124
+  },
+  {
+    "name": "Caldwell County Health Department",
+    "address": "2345 Morganton Blvd., Suite B, Lenoir, NC 28645",
+    "phone": "828-426-8400",
+    "category": "wic",
+    "lat": 35.893556267528,
+    "lng": -81.571557095347
+  },
+  {
+    "name": "CommWell Health Newton Grove",
+    "address": "1508 B Maple Grove Church Rd., Dunn, NC 28334",
+    "phone": "1-877-935-5255",
+    "category": "wic",
+    "lat": 35.240393413348,
+    "lng": -78.450865796309
+  },
+  {
+    "name": "CommWell Health McGee's Crossroads",
+    "address": "70 Crepe Myrtle Dr., #104, Benson, NC 27504",
+    "phone": "1-877-935-5255",
+    "category": "wic",
+    "lat": 35.51754627656,
+    "lng": -78.555008101868
+  },
+  {
+    "name": "Craven Community Health center",
+    "address": "508 US Hwy. 70 West, Havelock, NC 28532",
+    "phone": "252-444-1533",
+    "category": "wic",
+    "lat": 34.870364374193,
+    "lng": -76.901313398088
+  },
+  {
+    "name": "Forsyth County Health Department - Kernersville",
+    "address": "431 W Bodenhimer St., Kernersville, NC 27284",
+    "phone": "336-703-3336",
+    "category": "wic",
+    "lat": 36.129643603421,
+    "lng": -80.079478824179
+  },
+  {
+    "name": "Forsyth County Health Department - Cleveland",
+    "address": "501 N Cleveland Ave., Suite 2, Winston -Salem, NC 27101",
+    "phone": "336-703-3361",
+    "category": "wic",
+    "lat": 36.10056920395,
+    "lng": -80.231098586253
+  },
+  {
+    "name": "Gaston County Department of Health and Human Services   -   DSS",
+    "address": "330 Dr MLK Jr Way, Gastonia, NC 28052",
+    "phone": "704-862-7500",
+    "category": "wic",
+    "lat": 35.267400147765,
+    "lng": -81.195796538978
+  },
+  {
+    "name": "Granville County Health Department",
+    "address": "1036 College St., Building C, Oxford, NC 27565",
+    "phone": "919-693-1333",
+    "category": "wic",
+    "lat": 36.326076778227,
+    "lng": -78.594465714667
+  },
+  {
+    "name": "Greene County Department of Public Health",
+    "address": "227 Kingold Blvd., Suite B, Snow Hill, NC 28580",
+    "phone": "252-747-8183",
+    "category": "wic",
+    "lat": 35.451060503884,
+    "lng": -77.682321546997
+  },
+  {
+    "name": "Guilford County Department of Health and Human Services - Halifax",
+    "address": "19 North Dobbs Street, Halifax, NC 27839",
+    "phone": "252-583-5021",
+    "category": "wic",
+    "lat": 36.329797826212,
+    "lng": -77.58994906941
+  },
+  {
+    "name": "Haywood County Health & Human Services Agency",
+    "address": "157 Paragon Pkwy., Suite 800, Clyde, NC 28721",
+    "phone": "828-452-6675",
+    "category": "wic",
+    "lat": 35.52528860535,
+    "lng": -82.955170849249
+  },
+  {
+    "name": "Henderson County Department of Public Health",
+    "address": "1200 Spartanburg Hwy., Suite 100, Hendersonville, NC 28792",
+    "phone": "828-692-4223",
+    "category": "wic",
+    "lat": 35.302378447702,
+    "lng": -82.441385841998
+  },
+  {
+    "name": "Jones County Health Department",
+    "address": "418 NC Hwy. 58, Unit C, Trenton, NC 28585",
+    "phone": "252-448-9111",
+    "category": "wic",
+    "lat": 35.067665230208,
+    "lng": -77.365379204027
+  },
+  {
+    "name": "Main Street   -   Suite A Durham County Department of Public Health",
+    "address": "414 East Main St., Suite 2, Durham, NC 27701",
+    "phone": "919-560-7824",
+    "category": "wic",
+    "lat": 35.992677480729,
+    "lng": -78.896698477496
+  },
+  {
+    "name": "Main Street   -   Suite A Durham County Department of Public Health - Chapel Hill Road",
+    "address": "2000 Chapel Hill Road, Suite 26A, 414 E. Main Street, Durham, NC 27707",
+    "phone": "919-403-1323",
+    "category": "wic",
+    "lat": 35.987199603158,
+    "lng": -78.92660076332
+  },
+  {
+    "name": "Lincoln County Health Department",
+    "address": "200 Gamble Dr., Suite 200, Lincolnton, NC 28092",
+    "phone": "704-736-8640",
+    "category": "wic",
+    "lat": 35.471318254955,
+    "lng": -81.234359942324
+  },
+  {
+    "name": "Washington County Health Department",
+    "address": "198 NC Hwy. 45 N, Plymouth, NC 27962",
+    "phone": "252-791-3111",
+    "category": "wic",
+    "lat": 35.875110038081,
+    "lng": -76.694478082699
+  },
+  {
+    "name": "Northampton County Health Department",
+    "address": "9495 NC Hwy. 305, Jackson, NC 27845",
+    "phone": "252-534-5841",
+    "category": "wic",
+    "lat": 36.412061310676,
+    "lng": -77.435654771618
+  },
+  {
+    "name": "Onslow County Consolidated Human Services Agency - Camp Lejeune",
+    "address": "2455 Iwo Jima Blvd., Tarawa Terrace, NC 28543",
+    "phone": "910-353-0022",
+    "category": "wic",
+    "lat": 34.732412748671,
+    "lng": -77.372559050632
+  },
+  {
+    "name": "Piedmont Health Services   - Moncure",
+    "address": "7228 Pittsboro - Moncure Rd., Moncure, NC 27559",
+    "phone": "919-542-2195",
+    "category": "wic",
+    "lat": 35.634911131962,
+    "lng": -79.103608923434
+  },
+  {
+    "name": "Piedmont Health Services   - Conner Dr",
+    "address": "105 Conner Drive, Ste 2100, Chapel Hill, NC 27514",
+    "phone": "(919)",
+    "category": "wic",
+    "lat": 35.929266030501,
+    "lng": -79.029129263756
+  },
+  {
+    "name": "Polk County Health and Human Services Agency",
+    "address": "2881 NC 108 East, Columbus, NC 28722",
+    "phone": "828-894-8271",
+    "category": "wic",
+    "lat": 35.282091003761,
+    "lng": -82.179139281895
+  },
+  {
+    "name": "Robeson County Health Department",
+    "address": "460 Country Club Rd., Lumberton, NC 28360",
+    "phone": "910-671-3200",
+    "category": "wic",
+    "lat": 34.627171648335,
+    "lng": -79.066007508266
+  },
+  {
+    "name": "360 County Complex Rd. - Sampson County Health Department",
+    "address": "360 County Complex Rd., Suite 200, Clinton, NC 28328",
+    "phone": "910-592-1131",
+    "category": "wic",
+    "lat": 34.979476001128,
+    "lng": -78.294200905319
+  },
+  {
+    "name": "Stanly County Department of Health and Human Services",
+    "address": "1000 North First St., Suite 3, Albemarle, NC 28001",
+    "phone": "704-982-9171",
+    "category": "wic",
+    "lat": 35.365214636447,
+    "lng": -80.197846200089
+  },
+  {
+    "name": "Stokes County Health Department",
+    "address": "1009 North Main St., Danbury, NC 27016",
+    "phone": "336-593-2400",
+    "category": "wic",
+    "lat": 36.411385570082,
+    "lng": -80.214130893017
+  },
+  {
+    "name": "Southwest Service Center",
+    "address": "104 Hartgrove Road, King, NC 27021",
+    "phone": "336-985-2727",
+    "category": "wic",
+    "lat": 36.299816780363,
+    "lng": -80.357341730291
+  },
+  {
+    "name": "Mitchell County Health Department",
+    "address": "130 Forest Service Dr., Suite A, Bakersville, NC 28705",
+    "phone": "828-688-4668",
+    "category": "wic",
+    "lat": 35.967102330649,
+    "lng": -82.116148105687
+  },
+  {
+    "name": "Transylvania Public Health",
+    "address": "106 East Morgan Street, Suite 105, Brevard, NC 28712",
+    "phone": "828-884-3135",
+    "category": "wic",
+    "lat": 35.231902985098,
+    "lng": -82.734717115683
+  },
+  {
+    "name": "Wake-Fuquay- Varina Southern Regional Center",
+    "address": "130 N Judd Pkwy. East, Fuquay Varina, NC 27526",
+    "phone": "919-250-4720",
+    "category": "wic",
+    "lat": 35.5828581373,
+    "lng": -78.782700523755
+  },
+  {
+    "name": "Wake-Cary Western Regional Center",
+    "address": "111 James Jackson Ave., Suite 201, Cary, NC 27513",
+    "phone": "919-250-4720",
+    "category": "wic",
+    "lat": 35.796332677007,
+    "lng": -78.802702539222
+  },
+  {
+    "name": "Brunswick County Health and Human Services - Bolivia",
+    "address": "25 Courthouse Dr., Bolivia, NC 28422",
+    "phone": "910-253-2250",
+    "category": "wic",
+    "lat": 34.0563895,
+    "lng": -78.1632325
+  },
+  {
+    "name": "Brunswick County Health and Human Services - Shallotte",
+    "address": "1509 Holden Beach Rd., Eastgate Plaza, Shallotte, NC 28470",
+    "phone": "910-253-2878",
+    "category": "wic",
+    "lat": 33.9764001,
+    "lng": -78.3465717
+  },
+  {
+    "name": "Burke County Health Department",
+    "address": "700 East Parker Rd., Suite C, Morganton, NC 28655",
+    "phone": "828-764-9150",
+    "category": "wic",
+    "lat": 35.726133,
+    "lng": -81.647414
+  },
+  {
+    "name": "Cherokee County Health Department- Andrews Office",
+    "address": "15 High School Dr., Andrews, NC 28901",
+    "phone": "828-837-1244",
+    "category": "wic",
+    "lat": 35.198611,
+    "lng": -83.821389
+  },
+  {
+    "name": "Clay County Health Department",
+    "address": "345 Court House Dr., Hayesville, NC 28904",
+    "phone": "828-389-8052",
+    "category": "wic",
+    "lat": 35.042333,
+    "lng": -83.830238
+  },
+  {
+    "name": "Cumberland County Public Health Center - Fort Liberty",
+    "address": "4861 Logistics Street, Fort Liberty, NC 28307",
+    "phone": "910-321-6420",
+    "category": "wic",
+    "lat": 35.139722,
+    "lng": -79.006111
+  },
+  {
+    "name": "Dare County Health & Human Services - Frisco Office",
+    "address": "50347 NC Hwy 12, Frisco, NC 27936",
+    "phone": "252-475-9320",
+    "category": "wic",
+    "lat": 35.237222,
+    "lng": -75.628611
+  },
+  {
+    "name": "154 Government Center Dr. - Davie County Health and Human Services",
+    "address": "154 Government Center Dr., Mocksville, NC 27028",
+    "phone": "336-753-6758",
+    "category": "wic",
+    "lat": 35.894722,
+    "lng": -80.561389
+  },
+  {
+    "name": "Johnston County Health Department - Benson",
+    "address": "70 Crape Myrtle Dr., Benson, NC 27504",
+    "phone": "919-989-5255",
+    "category": "wic",
+    "lat": 35.382211,
+    "lng": -78.554637
+  },
+  {
+    "name": "Rockingham County Health Department",
+    "address": "371 NC Hwy. 65 West, Suite 204, Wentworth, NC 27375",
+    "phone": "336-342-8200",
+    "category": "wic",
+    "lat": 36.3917498,
+    "lng": -79.7508538
+  },
+  {
+    "name": "Beloved Women's and Children's Center",
+    "address": "73 Kaiser Wilnoty Rd., Cherokee, NC 28719",
+    "phone": "828-359-7297",
+    "category": "wic",
+    "lat": 35.486944,
+    "lng": -83.315833
+  }
+]
