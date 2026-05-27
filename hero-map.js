@@ -58,7 +58,6 @@ function buildHeroMap(container, us) {
     .attr('role', 'img')
     .attr('aria-label', 'Interactive map of the United States');
 
-  const orbitG = svg.append('g').attr('class', 'hero-orbits');
   const mapG = svg.append('g').attr('class', 'hero-states');
   const dotsG = svg.append('g').attr('class', 'hero-dots');
 
@@ -70,32 +69,6 @@ function buildHeroMap(container, us) {
     [[width * 0.06, height * 0.1], [width * 0.94, height * 0.9]],
     { type: 'FeatureCollection', features: states }
   );
-
-  const bounds = path.bounds({ type: 'FeatureCollection', features: states });
-  const cx = (bounds[0][0] + bounds[1][0]) / 2;
-  const cy = (bounds[0][1] + bounds[1][1]) / 2;
-  const rx = (bounds[1][0] - bounds[0][0]) / 2 + 24;
-  const ry = (bounds[1][1] - bounds[1][1]) / 2 + 18;
-
-  const orbits = [
-    { rx: rx * 1.05, ry: ry * 1.12, dash: '6 10', opacity: 0.35 },
-    { rx: rx * 1.22, ry: ry * 1.28, dash: '4 14', opacity: 0.22 },
-    { rx: rx * 0.88, ry: ry * 0.92, dash: '2 8', opacity: 0.18 },
-  ];
-
-  orbitG
-    .selectAll('ellipse')
-    .data(orbits)
-    .join('ellipse')
-    .attr('cx', cx)
-    .attr('cy', cy)
-    .attr('rx', (d) => d.rx)
-    .attr('ry', (d) => d.ry)
-    .attr('fill', 'none')
-    .attr('stroke', 'var(--leaf)')
-    .attr('stroke-width', 1)
-    .attr('stroke-dasharray', (d) => d.dash)
-    .attr('opacity', (d) => d.opacity);
 
   const points = [];
   states.forEach((f) => {
@@ -112,7 +85,6 @@ function buildHeroMap(container, us) {
       });
     }
   });
-  points.push({ x: cx, y: cy, delay: 0, isCore: true });
 
   dotsG
     .selectAll('circle')
@@ -120,8 +92,8 @@ function buildHeroMap(container, us) {
     .join('circle')
     .attr('cx', (d) => d.x)
     .attr('cy', (d) => d.y)
-    .attr('r', (d) => (d.isCore ? 3.5 : 1.2 + Math.random() * 0.8))
-    .attr('class', (d) => (d.isCore ? 'hero-dot-core' : 'hero-dot'))
+    .attr('r', () => 1.2 + Math.random() * 0.8)
+    .attr('class', 'hero-dot')
     .style('animation-delay', (d) => `${d.delay}s`);
 
   mapG

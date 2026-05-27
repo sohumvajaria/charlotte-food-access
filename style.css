@@ -174,7 +174,7 @@ body.page-home {
   display: grid;
   grid-template-columns: minmax(280px, 42%) 1fr;
   align-items: start;
-  padding: 120px 48px 48px;
+  padding: 156px 48px 48px;
   gap: 24px;
 }
 
@@ -466,24 +466,9 @@ html.is-scrolling .home-reach-ticker-track {
   animation: dot-twinkle 3s ease-in-out infinite;
 }
 
-.hero-dot-core {
-  fill: var(--leaf);
-  opacity: 0.9;
-  animation: dot-twinkle 2s ease-in-out infinite;
-}
-
 @keyframes dot-twinkle {
   0%, 100% { opacity: 0.35; }
   50% { opacity: 0.95; }
-}
-
-.hero-orbits ellipse {
-  transform-origin: center;
-  animation: orbit-spin 48s linear infinite;
-}
-
-@keyframes orbit-spin {
-  to { transform: rotate(360deg); }
 }
 
 .hero-map-tooltip {
@@ -2457,7 +2442,7 @@ body.page-explorer .leaflet-control-attribution {
   #hero-nav { padding: 20px 24px; }
   #hero-inner {
     grid-template-columns: 1fr;
-    padding: 104px 24px 32px;
+    padding: 132px 24px 32px;
     text-align: left;
   }
   #hero-copy { max-width: none; }
