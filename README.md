@@ -73,3 +73,5 @@ npm run test-charlotte-food
 ## Team
 
 Built for the People.
+Made with ❤️ - Alan Cai NCSSM '27, Matthew Gervescu Ballantyne Ridge '28, Sohum Vajaria NCSSM '28
+
