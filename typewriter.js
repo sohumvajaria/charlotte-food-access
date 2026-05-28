@@ -81,6 +81,12 @@ function initTypewriter() {
     };
 
     const isHeroQuote = el.classList.contains('hero-quote-text');
+    const isHeroPresenting = el.classList.contains('hero-presenting');
+
+    if (isHeroPresenting) {
+      start();
+      return;
+    }
 
     if (isHeroQuote) {
       document.addEventListener('provide:hero-cursive-start', () => start(), { once: true });

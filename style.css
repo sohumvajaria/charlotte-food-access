@@ -186,29 +186,12 @@ body.page-home {
   flex-direction: column;
 }
 
-.hero-status {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+.hero-presenting {
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0.06em;
   color: var(--leaf);
   margin-bottom: 28px;
-}
-
-.status-dot {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: var(--leaf);
-  box-shadow: 0 0 0 4px rgba(45, 106, 79, 0.2);
-  animation: pulse-dot 2.4s ease-in-out infinite;
-}
-
-@keyframes pulse-dot {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.55; }
 }
 
 .hero-title {
@@ -782,6 +765,7 @@ html.is-scrolling .home-reach-ticker-track {
 }
 
 .home-how-step-text.is-typewriter,
+.hero-presenting.is-typewriter,
 .hero-quote-text.is-typewriter {
   position: relative;
 }
@@ -836,6 +820,7 @@ html.is-scrolling .home-reach-ticker-track {
   }
 
   .home-how-step-text.is-typewriter .typewriter-live,
+  .hero-presenting.is-typewriter .typewriter-live,
   .hero-quote-text.is-typewriter .typewriter-live {
     position: static;
   }
