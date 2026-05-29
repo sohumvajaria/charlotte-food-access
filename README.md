@@ -164,5 +164,5 @@ Made with ❤️ — Alan Cai NCSSM '27, Matthew Gervescu Ballantyne Ridge '28, 
 
 ## Links
 
-- **Live site:** [[sohumvajaria.github.io/charlotte-food-access](https://sohumvajaria.github.io/charlotte-food-access/)](https://provide-nc.org/)
+- **Live site:** (https://provide-nc.org/)
 - **Source:** [github.com/sohumvajaria/charlotte-food-access](https://github.com/sohumvajaria/charlotte-food-access)
